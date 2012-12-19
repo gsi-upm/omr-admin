@@ -1,0 +1,101 @@
+/* HORIZONTAL TABS */
+
+ol#toc {
+	background: #383838 url(tabs_bg.gif);
+	font-size: 10pt;
+	height: 32px;
+	/*left: -25px;*/
+	list-style: none;
+	margin: 1em 0 1em;
+	/* min-width: 100%; */
+	overflow: hidden;
+	padding: 0 60px 0 25px;
+	position: relative;
+	/*right: -85px;*/
+	width: 550px;
+}
+
+ol#toc a {
+	background: #9b9b9b url(tabs.gif);
+	color: #444;
+	display: block;
+	float: left;
+	height: 2.5em;
+	padding-left: 5px;
+	text-decoration: none;
+}
+
+ol#toc a:hover {
+	background-color: #d8d8d8;
+	background-position: 0 -120px;
+	color: #666;
+}
+
+ol#toc a:hover span {
+	background-position: 100% -120px;
+}
+
+ol#toc a:hover.active,
+ol#toc a.active {
+	background-color: #f8f8f8;
+	background-position: 0 -60px;
+	color: #222;
+	font-weight: bold;
+}
+
+ol#toc a:hover.active span,
+ol#toc a.active span {
+	background-position: 100% -60px;
+}
+
+ol#toc li {
+	float: left;
+	margin: 0 3px 0 0;
+}
+
+ol#toc span {
+	background: url(tabs.gif) 100% 0;
+	cursor: pointer;
+	display: block;
+	float: left;
+	line-height: 2em;
+	padding: .5em 5px 0 0;
+}
+
+ol#toc img{
+	vertical-align: middle;
+	margin-top: -8px;
+}
+
+/* VERTICAL TABS */
+
+.ui-tabs-vertical {  }
+.ui-tabs-vertical .ui-tabs-nav { padding: .2em .1em .2em .2em; float: left; width: 12em; }
+.ui-tabs-vertical .ui-tabs-nav li { clear: left; width: 100%; border-bottom-width: 1px !important; border-right-width: 0 !important; margin: 0 -1px .2em 0; }
+.ui-tabs-vertical .ui-tabs-nav li a { display:block; }
+.ui-tabs-vertical .ui-tabs-nav li.ui-tabs-active { padding-bottom: 0; padding-right: .1em; border-right-width: 1px; border-right-width: 1px; }
+
+.ui-tabs-vertical .ui-tabs-panel { 
+padding: 1em; 
+/*float: right;*/  
+
+margin-left: 13em;
+text-align: justify;
+height: 600px;
+overflow: auto;
+}
+
+.tab-content{
+	width: 70em;
+	
+}
+
+.tabs{
+	font-size: 12px;
+	font-family: "Lucida Grande", "Tahoma", "Helvetica", "Arial", sans-serif;
+}
+
+.ui-widget {
+	font-family: "Lucida Grande", "Tahoma", "Helvetica", "Arial", sans-serif;
+	font-size: 1em/*{fsDefault}*/;
+}

@@ -1,0 +1,809 @@
+<?xml version="1.0" encoding="utf-8"?>
+<sparql xmlns="http://www.w3.org/2005/sparql-results#">
+  <head>
+    <variable name="o" />
+    <variable name="total" />
+  </head>
+  <results>
+    <result>
+      <binding name="o">
+        <uri>http://developers.hubspot.com/docs/endpoints</uri>
+      </binding>
+      <binding name="total">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">3</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="o">
+        <uri>http://developer.hoiio.com/</uri>
+      </binding>
+      <binding name="total">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">2</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="o">
+        <uri>http://www.healthdata.gov/catalog-api</uri>
+      </binding>
+      <binding name="total">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">2</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="o">
+        <uri>http://help.airbrake.io/kb/api-2/api-overview</uri>
+      </binding>
+      <binding name="total">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">2</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="o">
+        <uri>http://webservices.lb.lt/default_En.htm</uri>
+      </binding>
+      <binding name="total">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">2</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="o">
+        <uri>http://geocoder.us/help/</uri>
+      </binding>
+      <binding name="total">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="o">
+        <uri>http://opendap.co-ops.nos.noaa.gov/</uri>
+      </binding>
+      <binding name="total">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="o">
+        <uri>https://developers.google.com/maps/</uri>
+      </binding>
+      <binding name="total">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="o">
+        <uri>https://developers.google.com/google-apps/gmail/oauth_overview</uri>
+      </binding>
+      <binding name="total">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="o">
+        <uri>https://developers.google.com/chart/</uri>
+      </binding>
+      <binding name="total">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="o">
+        <uri>http://www.guardian.co.uk/open-platform</uri>
+      </binding>
+      <binding name="total">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="o">
+        <uri>http://www.bitrix24.com/support/forum/forum3/topic349/</uri>
+      </binding>
+      <binding name="total">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="o">
+        <uri>http://www.lib.cam.ac.uk/api/</uri>
+      </binding>
+      <binding name="total">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="o">
+        <uri>http://freewheel.autodesk.com/developers.aspx</uri>
+      </binding>
+      <binding name="total">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="o">
+        <uri>http://www.carbonite.com/blog/api/BlogImporter.asmx</uri>
+      </binding>
+      <binding name="total">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="o">
+        <uri>http://www.hisigntech.com/api.php</uri>
+      </binding>
+      <binding name="total">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="o">
+        <uri>http://www.financialcontent.com/support/documentation/stock_chart_api.php</uri>
+      </binding>
+      <binding name="total">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="o">
+        <uri>http://bibiserv.techfak.uni-bielefeld.de/dca/webservice.html</uri>
+      </binding>
+      <binding name="total">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="o">
+        <uri>http://www.c2logix.com/c2routeapp-api</uri>
+      </binding>
+      <binding name="total">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="o">
+        <uri>http://code.google.com/p/o3d/</uri>
+      </binding>
+      <binding name="total">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="o">
+        <uri>http://www.cbs.dtu.dk/ws/</uri>
+      </binding>
+      <binding name="total">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="o">
+        <uri>http://www.deutschland-api.de/Hauptseite</uri>
+      </binding>
+      <binding name="total">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="o">
+        <uri>http://open.convio.com/api/#main</uri>
+      </binding>
+      <binding name="total">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="o">
+        <uri>http://globplot.embl.de/webservice/globplot.wsdl</uri>
+      </binding>
+      <binding name="total">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="o">
+        <uri>https://docs.google.com/document/d/1o1Fe69RnxR_pfFYm6CplsiNjXnbJ30HPmwKh0jKMAQY/edit?pli=1</uri>
+      </binding>
+      <binding name="total">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="o">
+        <uri>https://www.eventsockets.com/docs/default.aspx</uri>
+      </binding>
+      <binding name="total">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="o">
+        <uri>http://www.glosk.com/services/api/</uri>
+      </binding>
+      <binding name="total">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="o">
+        <uri>https://ivrs.elections.il.gov/api/SearchUpdate.asmx</uri>
+      </binding>
+      <binding name="total">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="o">
+        <uri>http://developer.iheart.com/api/</uri>
+      </binding>
+      <binding name="total">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="o">
+        <uri>http://developer.linkedin.com/</uri>
+      </binding>
+      <binding name="total">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="o">
+        <uri>http://www.last.fm/api</uri>
+      </binding>
+      <binding name="total">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="o">
+        <uri>http://api.wikia.com/wiki/LyricWiki_API</uri>
+      </binding>
+      <binding name="total">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="o">
+        <uri>http://publisher.shopzilla.com/</uri>
+      </binding>
+      <binding name="total">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="o">
+        <uri>https://dev.twitter.com/docs</uri>
+      </binding>
+      <binding name="total">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="o">
+        <uri>https://partners.shopping.com/apiHome.action?apiSuiteSelection=sdc101</uri>
+      </binding>
+      <binding name="total">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="o">
+        <uri>http://embed.ly/docs/endpoints</uri>
+      </binding>
+      <binding name="total">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="o">
+        <uri>https://dev.twitter.com/docs/streaming-apis</uri>
+      </binding>
+      <binding name="total">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="o">
+        <uri>http://follerme.pbworks.com/w/page/9885800/FrontPage</uri>
+      </binding>
+      <binding name="total">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="o">
+        <uri>http://www.brightroll.com/technology/</uri>
+      </binding>
+      <binding name="total">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="o">
+        <uri>http://www.appsforamsterdam.nl/wp-content/uploads/2011/02/AmsterdamMuseum.txt</uri>
+      </binding>
+      <binding name="total">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="o">
+        <uri>http://www.cohesiveft.com/Developer/</uri>
+      </binding>
+      <binding name="total">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="o">
+        <uri>http://code.google.com/apis/base/</uri>
+      </binding>
+      <binding name="total">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="o">
+        <uri>http://framey.com/</uri>
+      </binding>
+      <binding name="total">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="o">
+        <uri>http://webservices.cornerdrugstore.com/documentation/documentation.html</uri>
+      </binding>
+      <binding name="total">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="o">
+        <uri>http://ccdb.hemiola.com/</uri>
+      </binding>
+      <binding name="total">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="o">
+        <uri>https://www.federalregister.gov/blog/learn/developers</uri>
+      </binding>
+      <binding name="total">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="o">
+        <uri>https://github.com/37signals/bcx-api</uri>
+      </binding>
+      <binding name="total">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="o">
+        <uri>http://deviceatlas.com/resourcecentre/get+started/about+our+apis</uri>
+      </binding>
+      <binding name="total">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="o">
+        <uri>http://100faktovobomne.ru/page/view/api</uri>
+      </binding>
+      <binding name="total">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="o">
+        <uri>http://www.boxbilling.com/docs/api.html</uri>
+      </binding>
+      <binding name="total">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="o">
+        <uri>http://wiki.mediatemple.net/images/EdgeCast_Web_Services_REST_API_0.1.pdf</uri>
+      </binding>
+      <binding name="total">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="o">
+        <uri>http://www.amazon.com/Corporate-Gift-Certificates/b?ie=UTF8&amp;node=165034011</uri>
+      </binding>
+      <binding name="total">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="o">
+        <uri>https://wiki.gogrid.com/wiki/index.php/Api</uri>
+      </binding>
+      <binding name="total">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="o">
+        <uri>http://context.io/docs/2.0</uri>
+      </binding>
+      <binding name="total">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="o">
+        <uri>http://www.fanbridge.com/api/</uri>
+      </binding>
+      <binding name="total">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="o">
+        <uri>http://bambuser.com/api</uri>
+      </binding>
+      <binding name="total">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="o">
+        <uri>http://www.democracyengine.com/faq#where_are_the_most_recent_api_docs</uri>
+      </binding>
+      <binding name="total">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="o">
+        <uri>http://api.hi5.com/index.html</uri>
+      </binding>
+      <binding name="total">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="o">
+        <uri>http://support.fotomoto.com/customer/portal/topics/2738-api-developer-resources/articles</uri>
+      </binding>
+      <binding name="total">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="o">
+        <uri>http://www.boliven.com/bws/patents_api</uri>
+      </binding>
+      <binding name="total">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="o">
+        <uri>http://www.instapaper.com/api/simple</uri>
+      </binding>
+      <binding name="total">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="o">
+        <uri>https://webapi.allegro.pl/uploader.php</uri>
+      </binding>
+      <binding name="total">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="o">
+        <uri>http://www.ebi.ac.uk/Tools/webservices/services/dbfetch</uri>
+      </binding>
+      <binding name="total">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="o">
+        <uri>http://www.charitynavigator.org/index.cfm?bay=content.view&amp;cpid=1397</uri>
+      </binding>
+      <binding name="total">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="o">
+        <uri>http://developer.glam.com/</uri>
+      </binding>
+      <binding name="total">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="o">
+        <uri>http://www.intellexere.com/en/ikb/api/txp/mkc/v1/text-processing-markup-cleaning-api-v1-getting-started</uri>
+      </binding>
+      <binding name="total">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="o">
+        <uri>http://dev.floorplanner.com/doku.php?id=rest-api</uri>
+      </binding>
+      <binding name="total">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="o">
+        <uri>http://www.deafilter.com/</uri>
+      </binding>
+      <binding name="total">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="o">
+        <uri>http://www.faascape.com/catalog/api.html</uri>
+      </binding>
+      <binding name="total">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="o">
+        <uri>http://docs.amazonwebservices.com/IAM/latest/APIReference/</uri>
+      </binding>
+      <binding name="total">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="o">
+        <uri>http://support.formstack.com/index.php?pg=kb.book&amp;id=3</uri>
+      </binding>
+      <binding name="total">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="o">
+        <uri>http://www.informz.com/email-marketing-solutions/email-marketing-software/email-saas-web-api/</uri>
+      </binding>
+      <binding name="total">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="o">
+        <uri>http://api.resourcecommons.org/</uri>
+      </binding>
+      <binding name="total">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="o">
+        <uri>http://help.airbrake.io/kb/api-2/notifier-api-version-22</uri>
+      </binding>
+      <binding name="total">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="o">
+        <uri>http://developer.ebay.com/Devzone/feedback/Concepts/FeedbackAPIGuide.html</uri>
+      </binding>
+      <binding name="total">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="o">
+        <uri>http://dev.getresponse.com/</uri>
+      </binding>
+      <binding name="total">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="o">
+        <uri>http://meloncollon.corank.com/api.html</uri>
+      </binding>
+      <binding name="total">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="o">
+        <uri>http://www.gurucue.com/</uri>
+      </binding>
+      <binding name="total">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="o">
+        <uri>http://help.blubrry.com/blubrry-api/media-hosting-api/</uri>
+      </binding>
+      <binding name="total">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="o">
+        <uri>https://www.authy.com/help/getting-started</uri>
+      </binding>
+      <binding name="total">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="o">
+        <uri>http://www.casualcafe.com/developers.aspx</uri>
+      </binding>
+      <binding name="total">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="o">
+        <uri>http://wiki.memberlandingpages.com/index.php?title=Special:Userlogin&amp;returntotitle=030+Developer+Documentation/020+Web+Service+Guide</uri>
+      </binding>
+      <binding name="total">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="o">
+        <uri>http://www.datalock.co.nz/index.php/technology</uri>
+      </binding>
+      <binding name="total">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="o">
+        <uri>http://fonolo.com/resources/demos</uri>
+      </binding>
+      <binding name="total">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="o">
+        <uri>http://www.inboxfever.com/</uri>
+      </binding>
+      <binding name="total">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="o">
+        <uri>http://developer.affili.net/desktopdefault.aspx/tabid-93</uri>
+      </binding>
+      <binding name="total">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="o">
+        <uri>http://www.e-cash.co.za/services/faqs.html</uri>
+      </binding>
+      <binding name="total">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="o">
+        <uri>http://developer.geoiq.com/api/</uri>
+      </binding>
+      <binding name="total">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="o">
+        <uri>http://www.blinkcampaign.com/index.php/email-marketing-resources/api/</uri>
+      </binding>
+      <binding name="total">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="o">
+        <uri>http://www.groundlink.com/</uri>
+      </binding>
+      <binding name="total">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="o">
+        <uri>http://data.illinois.gov/api/docs</uri>
+      </binding>
+      <binding name="total">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="o">
+        <uri>http://codebits.eu/s/api</uri>
+      </binding>
+      <binding name="total">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="o">
+        <uri>http://captricity.com/developer-api/</uri>
+      </binding>
+      <binding name="total">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="o">
+        <uri>http://www.euromsg.com/web/29-536-1-1/euromessage_-_en/solutions/solutions/product_integration</uri>
+      </binding>
+      <binding name="total">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="o">
+        <uri>http://developers.cloudmade.com/wiki/geocoding-http-api/Documentation</uri>
+      </binding>
+      <binding name="total">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="o">
+        <uri>http://www.genband.com/products/applications/genfuzion</uri>
+      </binding>
+      <binding name="total">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="o">
+        <uri>https://developer.atlassian.com/display/CROWDDEV/Crowd+REST+APIs</uri>
+      </binding>
+      <binding name="total">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="o">
+        <uri>http://bitcoinpayflow.com/</uri>
+      </binding>
+      <binding name="total">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="o">
+        <uri>http://apidoc.adility.com/</uri>
+      </binding>
+      <binding name="total">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="o">
+        <uri>http://www.dailymile.com/api</uri>
+      </binding>
+      <binding name="total">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1</literal>
+      </binding>
+    </result>
+  </results>
+</sparql>

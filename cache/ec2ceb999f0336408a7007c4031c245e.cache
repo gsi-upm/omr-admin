@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<sparql xmlns="http://www.w3.org/2005/sparql-results#">
+  <head>
+    <variable name="a" />
+    <variable name="label" />
+    <variable name="desc" />
+    <variable name="uri" />
+    <variable name="rating" />
+  </head>
+  <results>
+    <result>
+      <binding name="a">
+        <uri>http://example.org/widgets/1</uri>
+      </binding>
+      <binding name="label">
+        <literal>HelloWorldService</literal>
+      </binding>
+      <binding name="desc">
+        <literal>This is my first service</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="a">
+        <uri>http://www.programmableweb.com/mashup/0boxer</uri>
+      </binding>
+      <binding name="label">
+        <literal>0boxer</literal>
+      </binding>
+      <binding name="desc">
+        <literal>0Boxer is an email plugin for Gmail. Makes a game out of your email and rewards you for reaching and maintaining inbox zero.</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="a">
+        <uri>http://www.programmableweb.com/mashup/100-travel-destinations</uri>
+      </binding>
+      <binding name="label">
+        <literal>100 travel destinations</literal>
+      </binding>
+      <binding name="desc">
+        <literal>Site showing images and text from 100 worldwide travel locations. From Antarctica to Zanzibar- travel destinations around the world.</literal>
+      </binding>
+      <binding name="rating">
+        <literal>0.940125350046673</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="a">
+        <uri>http://www.programmableweb.com/api/cambridge-university-library</uri>
+      </binding>
+      <binding name="label">
+        <literal>Cambridge University Library  API</literal>
+      </binding>
+      <binding name="desc">
+        <literal>Cambridge University Library is a system of libraries that supports teaching and research at the University of Cambridge. The Library provides a suite of APIs to access and interact with the library catalog and other online services. These APIs include catalogue data, ejournal holdings information, DSpace institutional repository, circulation services, and more.The APIs are RESTful and return responses in XML and JSON formats.</literal>
+      </binding>
+    </result>
+  </results>
+</sparql>

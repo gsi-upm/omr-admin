@@ -1,0 +1,235 @@
+<?xml version="1.0" encoding="utf-8"?>
+<sparql xmlns="http://www.w3.org/2005/sparql-results#">
+  <head>
+    <variable name="a" />
+    <variable name="label" />
+    <variable name="desc" />
+    <variable name="uri" />
+    <variable name="rating" />
+  </head>
+  <results>
+    <result>
+      <binding name="a">
+        <uri>http://www.programmableweb.com/mashup/100-travel-destinations</uri>
+      </binding>
+      <binding name="label">
+        <literal>100 travel destinations</literal>
+      </binding>
+      <binding name="desc">
+        <literal>Site showing images and text from 100 worldwide travel locations. From Antarctica to Zanzibar- travel destinations around the world.</literal>
+      </binding>
+      <binding name="rating">
+        <literal>0.940125350046673</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="a">
+        <uri>http://www.programmableweb.com/mashup/1001-secret-fishing-holes</uri>
+      </binding>
+      <binding name="label">
+        <literal>1001 Secret Fishing Holes</literal>
+      </binding>
+      <binding name="desc">
+        <literal>Over a thousand fishing spots in national parks, wildlife refuges, lakes, campgrounds, historic trails etc.</literal>
+      </binding>
+      <binding name="rating">
+        <literal>0.600080010668089</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="a">
+        <uri>http://www.programmableweb.com/mashup/10-fascinating-googlers</uri>
+      </binding>
+      <binding name="label">
+        <literal>10 Fascinating Googlers</literal>
+      </binding>
+      <binding name="desc">
+        <literal>Fortune Magazine list of 10 Fascinating Googlers plotted on a Google Map.</literal>
+      </binding>
+      <binding name="rating">
+        <literal>0.740098679823977</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="a">
+        <uri>http://www.programmableweb.com/mashup/100-most-powerful-celebrities</uri>
+      </binding>
+      <binding name="label">
+        <literal>100 Most Powerful Celebrities</literal>
+      </binding>
+      <binding name="desc">
+        <literal>Map of Forbes list of the top 100 most powerful and best paid celebrities. Pop-up windows for each includes related YouTube videos.</literal>
+      </binding>
+      <binding name="rating">
+        <literal>0.700093345779437</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="a">
+        <uri>http://www.programmableweb.com/mashup/2009-formula-one-map</uri>
+      </binding>
+      <binding name="label">
+        <literal>2009 Formula One Map</literal>
+      </binding>
+      <binding name="desc">
+        <literal>Displays satellite images of all 2009 Formula One Grand Prix Circuits with race results and grand prix information.</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="a">
+        <uri>http://www.programmableweb.com/mashup/25-best-companies-to-work-for</uri>
+      </binding>
+      <binding name="label">
+        <literal>25 Best Companies to Work For</literal>
+      </binding>
+      <binding name="desc">
+        <literal>Map of the 100 best US companies to work for as rated by Fortune Magazine</literal>
+      </binding>
+      <binding name="rating">
+        <literal>0.56007467662355</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="a">
+        <uri>http://www.programmableweb.com/mashup/200-towns</uri>
+      </binding>
+      <binding name="label">
+        <literal>200 Towns</literal>
+      </binding>
+      <binding name="desc">
+        <literal>Perspecives of British landscape: images and text from cities and towns around Britain.</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="a">
+        <uri>http://www.programmableweb.com/mashup/2010-formula-one-map</uri>
+      </binding>
+      <binding name="label">
+        <literal>2010 Formula One Map</literal>
+      </binding>
+      <binding name="desc">
+        <literal>Displays satellite images of all 2010 Formula One Grand Prix Circuits with race results and grand prix information.</literal>
+      </binding>
+      <binding name="rating">
+        <literal>0.600080010668089</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="a">
+        <uri>http://www.programmableweb.com/mashup/14-sundials-in-oxford-england</uri>
+      </binding>
+      <binding name="label">
+        <literal>14 Sundials in Oxford, England</literal>
+      </binding>
+      <binding name="desc">
+        <literal>A sundial trail around the city of Oxford, UK. Has simplified mobile version.</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="a">
+        <uri>http://www.programmableweb.com/mashup/25-unsafest-us-cities</uri>
+      </binding>
+      <binding name="label">
+        <literal>25 Unsafest US Cities</literal>
+      </binding>
+      <binding name="desc">
+        <literal>A look at the 25 most unsafe cities in America.</literal>
+      </binding>
+      <binding name="rating">
+        <literal>0.660088011734898</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="a">
+        <uri>http://www.programmableweb.com/mashup/2008-basketball-tourneys</uri>
+      </binding>
+      <binding name="label">
+        <literal>2008 Basketball Tourneys</literal>
+      </binding>
+      <binding name="desc">
+        <literal>Location, seedings, and dynamically updating brackets for all of the Division I college basketball conference tournaments.</literal>
+      </binding>
+      <binding name="rating">
+        <literal>0.820109347913055</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="a">
+        <uri>http://www.programmableweb.com/mashup/2011-march-madness-twitter-heatmap</uri>
+      </binding>
+      <binding name="label">
+        <literal>2011 March Madness Twitter Heatmap</literal>
+      </binding>
+      <binding name="desc">
+        <literal>This mashup visualizes Twitter data collected during the 2011 NCAA basketball tournament using the Twitter Streaming API. For each matchup in the bracket, the map lights up one team's colors based on the amount of tweets recieved at each location. Send a geotagged tweet to support your favorite team!</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="a">
+        <uri>http://www.programmableweb.com/mashup/250-wedding-tent-venues</uri>
+      </binding>
+      <binding name="label">
+        <literal>250 Wedding Tent Venues</literal>
+      </binding>
+      <binding name="desc">
+        <literal>Map of about 250 places to put up a wedding party tent in southeast UK. Combines mapping with real offline research to provide information that is available nowhere else.</literal>
+      </binding>
+      <binding name="rating">
+        <literal>0.940125350046673</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="a">
+        <uri>http://www.programmableweb.com/mashup/2008-beijing-olympics-torch-relay-path</uri>
+      </binding>
+      <binding name="label">
+        <literal>2008 Beijing Olympics Torch Relay Path</literal>
+      </binding>
+      <binding name="desc">
+        <literal>See the path for the 2008 Beijing Olympics torch.</literal>
+      </binding>
+      <binding name="rating">
+        <literal>0.740098679823977</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="a">
+        <uri>http://www.programmableweb.com/mashup/29-travels</uri>
+      </binding>
+      <binding name="label">
+        <literal>29 Travels</literal>
+      </binding>
+      <binding name="desc">
+        <literal>Used to highlight countries you have visited. Supports Google Maps and Google Earth with a browser plugin. Provides an embeddable HTML code so bloggers and website owners can embed it into their site. No need to register.</literal>
+      </binding>
+      <binding name="rating">
+        <literal>0.880117348979864</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="a">
+        <uri>http://www.programmableweb.com/mashup/2008-formula-one-map</uri>
+      </binding>
+      <binding name="label">
+        <literal>2008 Formula One Map</literal>
+      </binding>
+      <binding name="desc">
+        <literal>Displays satellite images of all 2008 Formula One Grand Prix Circuits with race results and grand prix information.</literal>
+      </binding>
+      <binding name="rating">
+        <literal>0.700093345779437</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="a">
+        <uri>http://www.programmableweb.com/mashup/2008-us-electoral-map</uri>
+      </binding>
+      <binding name="label">
+        <literal>2008 US Electoral Map</literal>
+      </binding>
+      <binding name="desc">
+        <literal>Mashup of US Electoral Map and Google Maps will allow you to interact with Google maps to calculate 2008 US Electoral votes. Mashup lets you load the map with previous election results and current polls.</literal>
+      </binding>
+    </result>
+  </results>
+</sparql>

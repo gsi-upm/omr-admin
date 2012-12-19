@@ -1,0 +1,249 @@
+<?xml version="1.0" encoding="utf-8"?>
+<sparql xmlns="http://www.w3.org/2005/sparql-results#">
+  <head>
+    <variable name="o" />
+    <variable name="total" />
+  </head>
+  <results>
+    <result>
+      <binding name="o">
+        <uri>http://www.programmableweb.com/api/google-maps</uri>
+      </binding>
+      <binding name="total">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">17</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="o">
+        <uri>http://www.programmableweb.com/api/twitter</uri>
+      </binding>
+      <binding name="total">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">9</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="o">
+        <uri>http://www.programmableweb.com/api/youtube</uri>
+      </binding>
+      <binding name="total">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">3</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="o">
+        <uri>http://www.programmableweb.com/api/amazon-ecommerce</uri>
+      </binding>
+      <binding name="total">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">2</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="o">
+        <uri>http://www.programmableweb.com/api/twitter-streaming</uri>
+      </binding>
+      <binding name="total">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">2</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="o">
+        <uri>http://www.programmableweb.com/api/shopping.com</uri>
+      </binding>
+      <binding name="total">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">2</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="o">
+        <uri>http://www.programmableweb.com/api/flickr</uri>
+      </binding>
+      <binding name="total">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">2</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="o">
+        <uri>http://www.programmableweb.com/api/yahoo-image-search</uri>
+      </binding>
+      <binding name="total">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">2</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="o">
+        <uri>http://www.programmableweb.com/api/embedly</uri>
+      </binding>
+      <binding name="total">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="o">
+        <uri>http://www.programmableweb.com/api/google-gmail-oauth</uri>
+      </binding>
+      <binding name="total">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="o">
+        <uri>http://www.programmableweb.com/api/shopzilla</uri>
+      </binding>
+      <binding name="total">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="o">
+        <uri>http://www.programmableweb.com/api/guardian</uri>
+      </binding>
+      <binding name="total">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="o">
+        <uri>http://www.programmableweb.com/api/last.fm</uri>
+      </binding>
+      <binding name="total">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="o">
+        <uri>http://www.programmableweb.com/api/lyricwiki</uri>
+      </binding>
+      <binding name="total">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="o">
+        <uri>http://www.programmableweb.com/api/google-chart</uri>
+      </binding>
+      <binding name="total">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="o">
+        <uri>http://www.programmableweb.com/api/linkedin</uri>
+      </binding>
+      <binding name="total">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="o">
+        <uri>http://www.programmableweb.com/api/hotelscombined</uri>
+      </binding>
+      <binding name="total">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="o">
+        <uri>http://www.programmableweb.com/api/google-earth</uri>
+      </binding>
+      <binding name="total">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="o">
+        <uri>http://www.programmableweb.com/api/digg</uri>
+      </binding>
+      <binding name="total">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="o">
+        <uri>http://www.programmableweb.com/api/google-homepage</uri>
+      </binding>
+      <binding name="total">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="o">
+        <uri>http://www.programmableweb.com/api/google-base</uri>
+      </binding>
+      <binding name="total">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="o">
+        <uri>http://www.programmableweb.com/api/google-spreadsheets</uri>
+      </binding>
+      <binding name="total">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="o">
+        <uri>http://www.programmableweb.com/api/worldcat-search</uri>
+      </binding>
+      <binding name="total">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="o">
+        <uri>http://www.programmableweb.com/api/liveconnect</uri>
+      </binding>
+      <binding name="total">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="o">
+        <uri>http://www.programmableweb.com/api/twilio-sms</uri>
+      </binding>
+      <binding name="total">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="o">
+        <uri>http://www.programmableweb.com/api/mediatemple</uri>
+      </binding>
+      <binding name="total">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="o">
+        <uri>http://www.programmableweb.com/api/yahoo-related-suggestions</uri>
+      </binding>
+      <binding name="total">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="o">
+        <uri>http://www.programmableweb.com/api/yahoo-search</uri>
+      </binding>
+      <binding name="total">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="o">
+        <uri>http://www.programmableweb.com/api/yahoo-geocoding</uri>
+      </binding>
+      <binding name="total">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="o">
+        <uri>http://www.programmableweb.com/api/twilio</uri>
+      </binding>
+      <binding name="total">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1</literal>
+      </binding>
+    </result>
+  </results>
+</sparql>

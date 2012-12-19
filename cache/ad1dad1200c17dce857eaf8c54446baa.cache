@@ -1,0 +1,809 @@
+<?xml version="1.0" encoding="utf-8"?>
+<sparql xmlns="http://www.w3.org/2005/sparql-results#">
+  <head>
+    <variable name="o" />
+    <variable name="total" />
+  </head>
+  <results>
+    <result>
+      <binding name="o">
+        <uri>http://www.3scale.net/forum/</uri>
+      </binding>
+      <binding name="total">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">3</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="o">
+        <uri>http://groups.google.com/group/twitter-development-talk</uri>
+      </binding>
+      <binding name="total">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">2</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="o">
+        <uri>http://help.airbrake.io/discussions</uri>
+      </binding>
+      <binding name="total">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">2</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="o">
+        <uri>http://social.msdn.microsoft.com/forums/en-US/vemapcontroldev/threads/</uri>
+      </binding>
+      <binding name="total">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">2</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="o">
+        <uri>http://groups.google.com/group/hubspot-api?pli=1</uri>
+      </binding>
+      <binding name="total">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">2</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="o">
+        <uri>http://developerboards.att.lithium.com/t5/API-Platform/bd-p/NetworkServicesAPIs</uri>
+      </binding>
+      <binding name="total">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">2</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="o">
+        <uri>http://groups.google.com/group/ctadevs?pli=1</uri>
+      </binding>
+      <binding name="total">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">2</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="o">
+        <uri>http://www.developergarden.com/apis/forum/</uri>
+      </binding>
+      <binding name="total">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">2</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="o">
+        <uri>http://groups-beta.google.com/group/Google-Maps-API?pli=1</uri>
+      </binding>
+      <binding name="total">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="o">
+        <uri>http://groups.google.com/group/google-chart-api</uri>
+      </binding>
+      <binding name="total">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="o">
+        <uri>http://groups.google.com/group/guardian-api-talk</uri>
+      </binding>
+      <binding name="total">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="o">
+        <uri>http://www.bitrix24.com/support/forum/forum3/</uri>
+      </binding>
+      <binding name="total">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="o">
+        <uri>http://discussion.autodesk.com/forum.jspa?forumID=251</uri>
+      </binding>
+      <binding name="total">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="o">
+        <uri>http://groups.google.com/group/o3d-discuss</uri>
+      </binding>
+      <binding name="total">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="o">
+        <uri>http://customer.convio.com/site/UserLogin?NEXTURL=http://community.customer.convio.com</uri>
+      </binding>
+      <binding name="total">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="o">
+        <uri>http://www.last.fm/group/Last.fm+Web+Services/forum/21604</uri>
+      </binding>
+      <binding name="total">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="o">
+        <uri>http://developer.shopping.com/forum/topics/3013</uri>
+      </binding>
+      <binding name="total">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="o">
+        <uri>http://support.embed.ly/home</uri>
+      </binding>
+      <binding name="total">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="o">
+        <uri>http://api.adlibsoft.com/forum/</uri>
+      </binding>
+      <binding name="total">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="o">
+        <uri>http://groups.google.com/group/Google-Base-data-API</uri>
+      </binding>
+      <binding name="total">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="o">
+        <uri>http://basecamphq.com/forum/viewforum.php?id=6</uri>
+      </binding>
+      <binding name="total">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="o">
+        <uri>http://www.boxbilling.com/forum/api</uri>
+      </binding>
+      <binding name="total">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="o">
+        <uri>http://wiki.gogrid.com/wiki/index.php/Forums</uri>
+      </binding>
+      <binding name="total">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="o">
+        <uri>http://support.context.io/</uri>
+      </binding>
+      <binding name="total">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="o">
+        <uri>http://www.hi5.com/friend/group/2364084--Hi5+Platform+Development--front-html</uri>
+      </binding>
+      <binding name="total">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="o">
+        <uri>http://www.faascape.com/forums/forum.html</uri>
+      </binding>
+      <binding name="total">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="o">
+        <uri>http://developer.amazonwebservices.com/connect/forum.jspa?forumID=76</uri>
+      </binding>
+      <binding name="total">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="o">
+        <uri>http://developer.affili.net/forum.aspx</uri>
+      </binding>
+      <binding name="total">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="o">
+        <uri>http://forums.atlassian.com/forum.jspa?forumID=108</uri>
+      </binding>
+      <binding name="total">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="o">
+        <uri>http://groups.google.com/group/dropio-api/topics</uri>
+      </binding>
+      <binding name="total">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="o">
+        <uri>http://groups.google.com/group/cligs-interested?pli=1</uri>
+      </binding>
+      <binding name="total">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="o">
+        <uri>http://groups.google.com/group/donor-tools-api</uri>
+      </binding>
+      <binding name="total">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="o">
+        <uri>http://groups.google.com/group/Google-Labs-Notebook</uri>
+      </binding>
+      <binding name="total">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="o">
+        <uri>http://bbyopen.com/forum</uri>
+      </binding>
+      <binding name="total">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="o">
+        <uri>http://groups.google.com/group/crunchbase-api/topics</uri>
+      </binding>
+      <binding name="total">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="o">
+        <uri>http://groups.google.com/group/google-contacts-api</uri>
+      </binding>
+      <binding name="total">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="o">
+        <uri>http://freemusicarchive.org/forum</uri>
+      </binding>
+      <binding name="total">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="o">
+        <uri>http://groups.google.com/group/google-refine/</uri>
+      </binding>
+      <binding name="total">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="o">
+        <uri>http://forum.centraldesktop.com/</uri>
+      </binding>
+      <binding name="total">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="o">
+        <uri>http://developerboards.att.lithium.com/t5/Network-Services-APIs/bd-p/NetworkServicesAPIs</uri>
+      </binding>
+      <binding name="total">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="o">
+        <uri>http://biologicalnetworks.net/forum/</uri>
+      </binding>
+      <binding name="total">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="o">
+        <uri>http://bdpsupport.betfair.com/ics/support/default.asp?deptID=2805&amp;task=forum</uri>
+      </binding>
+      <binding name="total">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="o">
+        <uri>http://groups.google.com/group/google-friend-connect-developers</uri>
+      </binding>
+      <binding name="total">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="o">
+        <uri>http://groups.google.com/group/beenverified-api</uri>
+      </binding>
+      <binding name="total">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="o">
+        <uri>http://www.openamplify.com/forum/topics/19627</uri>
+      </binding>
+      <binding name="total">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="o">
+        <uri>http://groups.google.com/group/contextvoice-dev</uri>
+      </binding>
+      <binding name="total">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="o">
+        <uri>http://developer.amazonwebservices.com/connect/forum.jspa?forumID=41</uri>
+      </binding>
+      <binding name="total">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="o">
+        <uri>http://groups.google.com/group/FotoliaAPI</uri>
+      </binding>
+      <binding name="total">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="o">
+        <uri>http://lists.floobs.com/cgi-bin/mailman/listinfo/floobs-api-discuss</uri>
+      </binding>
+      <binding name="total">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="o">
+        <uri>http://www.authorstream.com/Forum/</uri>
+      </binding>
+      <binding name="total">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="o">
+        <uri>http://support.inbox25.com/forums</uri>
+      </binding>
+      <binding name="total">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="o">
+        <uri>http://www.blesta.com/forums/forumdisplay.php?f=18</uri>
+      </binding>
+      <binding name="total">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="o">
+        <uri>http://groups.google.com/group/bitbucket-users</uri>
+      </binding>
+      <binding name="total">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="o">
+        <uri>http://data.gov.uk/forum</uri>
+      </binding>
+      <binding name="total">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="o">
+        <uri>http://developer.activebuilding.com/forum</uri>
+      </binding>
+      <binding name="total">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="o">
+        <uri>http://wiki.gandi.net/fr/api-xml/docs/domain#questions</uri>
+      </binding>
+      <binding name="total">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="o">
+        <uri>http://groups.google.com/group/Google-Maps-API</uri>
+      </binding>
+      <binding name="total">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="o">
+        <uri>http://ideas.ideascale.com/a/ideafactory.do?discussionID=12038</uri>
+      </binding>
+      <binding name="total">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="o">
+        <uri>http://www.cleartrip.com/forums/45</uri>
+      </binding>
+      <binding name="total">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="o">
+        <uri>http://www.bidstart.com/external.php?unread=&amp;url=phpBB3/index.php</uri>
+      </binding>
+      <binding name="total">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="o">
+        <uri>http://developer.hoovers.com/forum</uri>
+      </binding>
+      <binding name="total">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="o">
+        <uri>http://forum.goodstorm.com/</uri>
+      </binding>
+      <binding name="total">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="o">
+        <uri>http://support.cheddargetter.com/</uri>
+      </binding>
+      <binding name="total">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="o">
+        <uri>http://forums.bachbill.com/jforum/forums/show/3.page</uri>
+      </binding>
+      <binding name="total">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="o">
+        <uri>http://discussions.flightaware.com/viewforum.php?f=9</uri>
+      </binding>
+      <binding name="total">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="o">
+        <uri>http://webservices.cj.com/ws/forum/index.php?forum=6</uri>
+      </binding>
+      <binding name="total">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="o">
+        <uri>http://groups.google.com/group/gigmasters-api?pli=1</uri>
+      </binding>
+      <binding name="total">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="o">
+        <uri>http://support.bluevia.com/</uri>
+      </binding>
+      <binding name="total">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="o">
+        <uri>http://dictionary-api.cambridge.org/index.php/forum</uri>
+      </binding>
+      <binding name="total">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="o">
+        <uri>http://support.getcloudapp.com/discussions</uri>
+      </binding>
+      <binding name="total">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="o">
+        <uri>http://forum.dapper.net/viewforum.php?f=2&amp;sid=d4e0aba63de3847a584de536d1885f18</uri>
+      </binding>
+      <binding name="total">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="o">
+        <uri>http://ergast.com/mrd/feedback</uri>
+      </binding>
+      <binding name="total">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="o">
+        <uri>http://www.goozex.com/community/forums/</uri>
+      </binding>
+      <binding name="total">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="o">
+        <uri>http://atutor.ca/forum/7/1.html</uri>
+      </binding>
+      <binding name="total">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="o">
+        <uri>http://groups.google.com/group/google-apps-apis</uri>
+      </binding>
+      <binding name="total">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="o">
+        <uri>http://support.hockeyapp.net/discussions</uri>
+      </binding>
+      <binding name="total">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="o">
+        <uri>http://groups.google.com/group/brightkite-api/topics</uri>
+      </binding>
+      <binding name="total">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="o">
+        <uri>http://forums.heyzap.com/forums/13</uri>
+      </binding>
+      <binding name="total">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="o">
+        <uri>http://developer.amazonwebservices.com/connect/forum.jspa?forumID=35</uri>
+      </binding>
+      <binding name="total">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="o">
+        <uri>http://forum.developers.box.net/box_developers</uri>
+      </binding>
+      <binding name="total">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="o">
+        <uri>http://groups.google.com/group/awesm-api/?pli=1</uri>
+      </binding>
+      <binding name="total">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="o">
+        <uri>http://developer.inapub.3scale.net/forum</uri>
+      </binding>
+      <binding name="total">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="o">
+        <uri>http://blellow.com/groups/BlellowAPI/dashboard</uri>
+      </binding>
+      <binding name="total">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="o">
+        <uri>http://getsatisfaction.com/dribbble/topics/api_feedback</uri>
+      </binding>
+      <binding name="total">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="o">
+        <uri>http://community.eea.europa.eu/home/technical-topics</uri>
+      </binding>
+      <binding name="total">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="o">
+        <uri>http://developer.active.com/forum/topics/41059</uri>
+      </binding>
+      <binding name="total">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="o">
+        <uri>http://gameyola.uservoice.com/forums/32297-general</uri>
+      </binding>
+      <binding name="total">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="o">
+        <uri>http://groups.google.com/group/Google-Docs-Data-APIs</uri>
+      </binding>
+      <binding name="total">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="o">
+        <uri>http://cleartrip.mashery.com/forum/topics/15895</uri>
+      </binding>
+      <binding name="total">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="o">
+        <uri>http://googlemashupeditor.blogspot.com/</uri>
+      </binding>
+      <binding name="total">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="o">
+        <uri>http://support.freshdesk.com/categories</uri>
+      </binding>
+      <binding name="total">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="o">
+        <uri>http://forum.4shared.com/</uri>
+      </binding>
+      <binding name="total">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="o">
+        <uri>http://backstage.bbc.co.uk/</uri>
+      </binding>
+      <binding name="total">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="o">
+        <uri>http://developer.edtuit.com/forum</uri>
+      </binding>
+      <binding name="total">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="o">
+        <uri>http://www.coolstreaming.us/forum/cs-live/</uri>
+      </binding>
+      <binding name="total">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="o">
+        <uri>http://developer.intelepeer.com/forum/</uri>
+      </binding>
+      <binding name="total">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="o">
+        <uri>http://www.handsetdetection.com/forum/</uri>
+      </binding>
+      <binding name="total">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="o">
+        <uri>http://us.battle.net/wow/en/forum/2626217/</uri>
+      </binding>
+      <binding name="total">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="o">
+        <uri>http://groups.imeem.com/zJqqiqve/forums</uri>
+      </binding>
+      <binding name="total">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="o">
+        <uri>http://forum.esignal.com/forumdisplay.php?s=747f8aac6561b4aa6d57cc5c05abe5a5&amp;forumid=22</uri>
+      </binding>
+      <binding name="total">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1</literal>
+      </binding>
+    </result>
+  </results>
+</sparql>

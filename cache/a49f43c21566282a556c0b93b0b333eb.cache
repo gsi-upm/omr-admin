@@ -1,0 +1,761 @@
+<?xml version="1.0" encoding="utf-8"?>
+<sparql xmlns="http://www.w3.org/2005/sparql-results#">
+  <head>
+    <variable name="o" />
+    <variable name="total" />
+  </head>
+  <results>
+    <result>
+      <binding name="o">
+        <literal>None specified</literal>
+      </binding>
+      <binding name="total">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">16</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="o">
+        <literal>None</literal>
+      </binding>
+      <binding name="total">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">13</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="o">
+        <literal>None given</literal>
+      </binding>
+      <binding name="total">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">11</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="o">
+        <literal>up to 25 calls at once; do not submit more until results and processing have completed</literal>
+      </binding>
+      <binding name="total">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">4</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="o">
+        <literal>Unspecified</literal>
+      </binding>
+      <binding name="total">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">3</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="o">
+        <literal>10,000 requests per day</literal>
+      </binding>
+      <binding name="total">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">2</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="o">
+        <literal>Usage Limit Reference</literal>
+      </binding>
+      <binding name="total">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">2</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="o">
+        <literal>1,000 requests per hour or 100,000 leads per calendar month.</literal>
+      </binding>
+      <binding name="total">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">2</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="o">
+        <literal>50,000 geocode requests per day</literal>
+      </binding>
+      <binding name="total">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="o">
+        <literal>5,000 API queries per day. You may store Guardian content for no longer than 24 hours.</literal>
+      </binding>
+      <binding name="total">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="o">
+        <literal>500 Mbytes</literal>
+      </binding>
+      <binding name="total">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="o">
+        <literal>1 request/second</literal>
+      </binding>
+      <binding name="total">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="o">
+        <literal>200,000 calls per day</literal>
+      </binding>
+      <binding name="total">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="o">
+        <literal>100 requests per 60 sixty minute time period</literal>
+      </binding>
+      <binding name="total">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="o">
+        <literal>No more than 250,000 SDC API queries may be submitted per Partner per day</literal>
+      </binding>
+      <binding name="total">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="o">
+        <literal>Default: 1000 requests per hour from one IP. Users can reconfigure this setting.</literal>
+      </binding>
+      <binding name="total">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="o">
+        <literal>5,000 queries per IP per day</literal>
+      </binding>
+      <binding name="total">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="o">
+        <literal>14,400 calls per day per account</literal>
+      </binding>
+      <binding name="total">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="o">
+        <literal>Activities are throttled by system</literal>
+      </binding>
+      <binding name="total">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="o">
+        <literal>1 request per 3 seconds</literal>
+      </binding>
+      <binding name="total">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="o">
+        <literal>1500 requests per hour</literal>
+      </binding>
+      <binding name="total">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="o">
+        <literal>Rate limiting or Paid API Account</literal>
+      </binding>
+      <binding name="total">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="o">
+        <literal>You can send 30 queries in 2 seconds to the Gandi API server</literal>
+      </binding>
+      <binding name="total">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="o">
+        <literal>Unlimited</literal>
+      </binding>
+      <binding name="total">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="o">
+        <literal>100 requests per hour</literal>
+      </binding>
+      <binding name="total">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="o">
+        <literal>You can not send more than 10M queries to CityGrid's APIs in any month.</literal>
+      </binding>
+      <binding name="total">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="o">
+        <literal>Varies based on plan</literal>
+      </binding>
+      <binding name="total">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="o">
+        <literal>30 sec. request timeout, 1h login timeout</literal>
+      </binding>
+      <binding name="total">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="o">
+        <literal>Please contact provider if you plan to make more than 10,000 calls/day</literal>
+      </binding>
+      <binding name="total">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="o">
+        <literal>No more than 10 API calls per second</literal>
+      </binding>
+      <binding name="total">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="o">
+        <literal>100 requests per hour per API key</literal>
+      </binding>
+      <binding name="total">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="o">
+        <literal>Free for first 200 queries per day</literal>
+      </binding>
+      <binding name="total">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="o">
+        <literal>6 requests per minute</literal>
+      </binding>
+      <binding name="total">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="o">
+        <literal>No permanent storage of their data on your servers</literal>
+      </binding>
+      <binding name="total">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="o">
+        <literal>36000 requests per hour per Application Key</literal>
+      </binding>
+      <binding name="total">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="o">
+        <literal>Cache or store results for application implementation rather than ad-hoc usage</literal>
+      </binding>
+      <binding name="total">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="o">
+        <literal>50,000 transactions per day</literal>
+      </binding>
+      <binding name="total">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="o">
+        <literal>50 requests per hour</literal>
+      </binding>
+      <binding name="total">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="o">
+        <literal>2000 calls per day, contact if more needed</literal>
+      </binding>
+      <binding name="total">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="o">
+        <literal>1,000 requests/day</literal>
+      </binding>
+      <binding name="total">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="o">
+        <literal>100 requests per 5 seconds, 400 requests in 50 seconds, 1400 requests in 500 seconds.   No more than 10 simultaneous connections from one IP</literal>
+      </binding>
+      <binding name="total">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="o">
+        <literal>API Terms of Use</literal>
+      </binding>
+      <binding name="total">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="o">
+        <literal>20 requests per second per IP address</literal>
+      </binding>
+      <binding name="total">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="o">
+        <literal>Current limit is 150 API requests per hour</literal>
+      </binding>
+      <binding name="total">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="o">
+        <literal>limited to 500 per day</literal>
+      </binding>
+      <binding name="total">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="o">
+        <literal>max. 200 records per request</literal>
+      </binding>
+      <binding name="total">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="o">
+        <literal>2-4 calls/second/user</literal>
+      </binding>
+      <binding name="total">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="o">
+        <literal>100,000 alerts per month at no cost.</literal>
+      </binding>
+      <binding name="total">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="o">
+        <literal>varies by plan</literal>
+      </binding>
+      <binding name="total">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="o">
+        <literal>50 dataflow and data source jobs in a 24 hour period for a Bing Maps Account.</literal>
+      </binding>
+      <binding name="total">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="o">
+        <literal>1000 unique image requests per user per day</literal>
+      </binding>
+      <binding name="total">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="o">
+        <literal>250 calls per hour  (Rate Limited by IP Address)</literal>
+      </binding>
+      <binding name="total">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="o">
+        <literal>600 API calls per auth code per 60 minutes</literal>
+      </binding>
+      <binding name="total">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="o">
+        <literal>Unknown</literal>
+      </binding>
+      <binding name="total">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="o">
+        <literal>Depends on your Production contract</literal>
+      </binding>
+      <binding name="total">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="o">
+        <literal>unlimited (non-commercial), get in contact with us for commercial use</literal>
+      </binding>
+      <binding name="total">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="o">
+        <literal>250,000 per day</literal>
+      </binding>
+      <binding name="total">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="o">
+        <literal>10,000 queries per day.</literal>
+      </binding>
+      <binding name="total">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="o">
+        <literal>No</literal>
+      </binding>
+      <binding name="total">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="o">
+        <literal>The number of results returned is limited to 1000 events maximum. Search results are required to be cached. Excessive querying will result in API access denial.</literal>
+      </binding>
+      <binding name="total">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="o">
+        <literal>5,000 calls per day per key</literal>
+      </binding>
+      <binding name="total">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="o">
+        <literal>1000 requests per hour for any Cloudwords account.</literal>
+      </binding>
+      <binding name="total">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="o">
+        <literal>Tiered starting at 100 calls/day, 1,000 calls/month</literal>
+      </binding>
+      <binding name="total">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="o">
+        <literal>200 queries per hour</literal>
+      </binding>
+      <binding name="total">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="o">
+        <literal>No limit, but please be kind. As a guideline, a maximum of 1 request every 15 minutes for the user's lists (requests, offers), game updates and new releases.</literal>
+      </binding>
+      <binding name="total">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="o">
+        <literal>Feeds that take more than a few minutes to download (about 10 Mb) will not be processed. Video can be of any size but the metadata with it is limited to 10 kilobytes (about 10,000 English characters).</literal>
+      </binding>
+      <binding name="total">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="o">
+        <literal>1 request/5 sec. for a single IP address</literal>
+      </binding>
+      <binding name="total">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="o">
+        <literal>5,000 per day, per API key, max 2 queries/sec</literal>
+      </binding>
+      <binding name="total">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="o">
+        <literal>per-application limit of 50,000 requests, applied in a rolling 24-hour window.</literal>
+      </binding>
+      <binding name="total">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="o">
+        <literal>Tiered</literal>
+      </binding>
+      <binding name="total">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="o">
+        <literal>Usage/Pricing Reference</literal>
+      </binding>
+      <binding name="total">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="o">
+        <literal>The quota is specific to this service</literal>
+      </binding>
+      <binding name="total">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="o">
+        <literal>10 calls/15 minutes</literal>
+      </binding>
+      <binding name="total">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="o">
+        <literal>Tiered usage limits starting at 30,000 requests per month</literal>
+      </binding>
+      <binding name="total">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="o">
+        <literal>60 calls per minute</literal>
+      </binding>
+      <binding name="total">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="o">
+        <literal>2 request per second, up to 5,000 requests per day</literal>
+      </binding>
+      <binding name="total">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="o">
+        <literal>1,000 requests per day and 1 per second per API key; contact if higher limit needed</literal>
+      </binding>
+      <binding name="total">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="o">
+        <literal>1000 requests/day</literal>
+      </binding>
+      <binding name="total">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="o">
+        <literal>During beta 100 topics per AWS account: aws.amazon.com/agreement/...</literal>
+      </binding>
+      <binding name="total">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="o">
+        <literal>10 files per request, 30 MB total upload size.</literal>
+      </binding>
+      <binding name="total">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="o">
+        <literal>2,000 requests per day from one or more IP addresses if not registered.</literal>
+      </binding>
+      <binding name="total">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="o">
+        <literal>10000 requests/day and 10 calls/second</literal>
+      </binding>
+      <binding name="total">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="o">
+        <literal>dependent on subscription</literal>
+      </binding>
+      <binding name="total">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="o">
+        <literal>10,000 transactions/day</literal>
+      </binding>
+      <binding name="total">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="o">
+        <literal>5,000 requests per 24-hour period, per IP address</literal>
+      </binding>
+      <binding name="total">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="o">
+        <literal>200 results per query</literal>
+      </binding>
+      <binding name="total">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="o">
+        <literal>50 calls/day, or more with pricing</literal>
+      </binding>
+      <binding name="total">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="o">
+        <literal>Limit calls to 5,000 per day, per API key; Limit queries to 2 per second, per API key</literal>
+      </binding>
+      <binding name="total">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="o">
+        <literal>5000 requests per hour per access_token or client_id overall</literal>
+      </binding>
+      <binding name="total">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="o">
+        <literal>free 300 MB disk space, access to public repositories</literal>
+      </binding>
+      <binding name="total">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="o">
+        <literal>2,000 requests per hour</literal>
+      </binding>
+      <binding name="total">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="o">
+        <literal>Clients may request up to 6,000 API calls every 24 hours.</literal>
+      </binding>
+      <binding name="total">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="o">
+        <literal>varies by package</literal>
+      </binding>
+      <binding name="total">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="o">
+        <literal>1 query per second max</literal>
+      </binding>
+      <binding name="total">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1</literal>
+      </binding>
+    </result>
+  </results>
+</sparql>

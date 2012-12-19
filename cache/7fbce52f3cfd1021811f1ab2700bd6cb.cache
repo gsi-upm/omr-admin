@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<sparql xmlns="http://www.w3.org/2005/sparql-results#">
+  <head>
+    <variable name="o" />
+    <variable name="total" />
+  </head>
+  <results>
+    <result>
+      <binding name="o">
+        <uri>http://www.ict-omelette.eu/schema.rdf#Service</uri>
+      </binding>
+      <binding name="total">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">17</literal>
+      </binding>
+    </result>
+  </results>
+</sparql>

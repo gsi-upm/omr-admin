@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8"?>
+<sparql xmlns="http://www.w3.org/2005/sparql-results#">
+  <head>
+    <variable name="p" />
+    <variable name="o" />
+  </head>
+  <results>
+    <result>
+      <binding name="p">
+        <uri>http://www.w3.org/1999/02/22-rdf-syntax-ns#type</uri>
+      </binding>
+      <binding name="o">
+        <uri>http://www.ict-omelette.eu/schema.rdf#W3CWidget</uri>
+      </binding>
+    </result>
+    <result>
+      <binding name="p">
+        <uri>http://purl.org/dc/elements/1.1/creator</uri>
+      </binding>
+      <binding name="o">
+        <literal>Netvibes</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="p">
+        <uri>http://purl.org/dc/elements/1.1/description</uri>
+      </binding>
+      <binding name="o">
+        <literal>Displays latest post from a feed</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="p">
+        <uri>http://www.w3.org/2000/01/rdf-schema#label</uri>
+      </binding>
+      <binding name="o">
+        <literal>Forbes.com Business News</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="p">
+        <uri>http://www.ict-omelette.eu/schema.rdf#hasRegistryEntry</uri>
+      </binding>
+      <binding name="o">
+        <uri>https://vsr-web.informatik.tu-chemnitz.de/omr/components/feedItem?name=https://vsr-web.informatik.tu-chemnitz.de/omr/components/graphs/e5b868a3-8b34-4db9-ac2f-cc2a3002ea06</uri>
+      </binding>
+    </result>
+    <result>
+      <binding name="p">
+        <uri>http://purl.org/dc/terms/isPartOf</uri>
+      </binding>
+      <binding name="o">
+        <uri>https://vsr-web.informatik.tu-chemnitz.de/omr/components/graphs/?name=https://vsr-web.informatik.tu-chemnitz.de/omr/components/graphs/e5b868a3-8b34-4db9-ac2f-cc2a3002ea06</uri>
+      </binding>
+    </result>
+    <result>
+      <binding name="p">
+        <uri>http://purl.org/dc/elements/1.1/source</uri>
+      </binding>
+      <binding name="o">
+        <uri>https://vsr-web.informatik.tu-chemnitz.de/omr/data/Forbescom_Business_News_16102012_192111.wgt</uri>
+      </binding>
+    </result>
+    <result>
+      <binding name="p">
+        <uri>http://purl.org/dc/terms/created</uri>
+      </binding>
+      <binding name="o">
+        <literal>2012-10-16T19:21:11+02:00</literal>
+      </binding>
+    </result>
+  </results>
+</sparql>

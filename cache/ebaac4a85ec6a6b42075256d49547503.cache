@@ -1,0 +1,809 @@
+<?xml version="1.0" encoding="utf-8"?>
+<sparql xmlns="http://www.w3.org/2005/sparql-results#">
+  <head>
+    <variable name="o" />
+    <variable name="total" />
+  </head>
+  <results>
+    <result>
+      <binding name="o">
+        <uri>http://www.ict-omelette.eu/omr/categories/tools</uri>
+      </binding>
+      <binding name="total">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">48</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="o">
+        <uri>http://www.ict-omelette.eu/omr/categories/internet</uri>
+      </binding>
+      <binding name="total">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">39</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="o">
+        <uri>http://www.ict-omelette.eu/omr/categories/shopping</uri>
+      </binding>
+      <binding name="total">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">37</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="o">
+        <uri>http://www.ict-omelette.eu/omr/categories/social</uri>
+      </binding>
+      <binding name="total">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">36</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="o">
+        <uri>http://www.ict-omelette.eu/omr/categories/enterprise</uri>
+      </binding>
+      <binding name="total">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">30</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="o">
+        <uri>http://www.ict-omelette.eu/omr/categories/government</uri>
+      </binding>
+      <binding name="total">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">29</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="o">
+        <uri>http://www.ict-omelette.eu/omr/categories/reference</uri>
+      </binding>
+      <binding name="total">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">27</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="o">
+        <uri>http://www.ict-omelette.eu/omr/categories/science</uri>
+      </binding>
+      <binding name="total">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">25</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="o">
+        <uri>http://www.ict-omelette.eu/omr/categories/music</uri>
+      </binding>
+      <binding name="total">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">25</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="o">
+        <uri>http://www.ict-omelette.eu/omr/categories/financial</uri>
+      </binding>
+      <binding name="total">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">23</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="o">
+        <uri>http://www.ict-omelette.eu/omr/categories/other</uri>
+      </binding>
+      <binding name="total">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">22</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="o">
+        <uri>http://www.ict-omelette.eu/omr/categories/payment</uri>
+      </binding>
+      <binding name="total">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">22</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="o">
+        <uri>http://www.ict-omelette.eu/omr/categories/email</uri>
+      </binding>
+      <binding name="total">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">21</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="o">
+        <uri>http://www.ict-omelette.eu/omr/categories/telephony</uri>
+      </binding>
+      <binding name="total">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">21</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="o">
+        <uri>http://www.ict-omelette.eu/omr/categories/mapping</uri>
+      </binding>
+      <binding name="total">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">20</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="o">
+        <uri>http://www.ict-omelette.eu/omr/categories/search</uri>
+      </binding>
+      <binding name="total">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">20</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="o">
+        <uri>http://www.ict-omelette.eu/omr/categories/messaging</uri>
+      </binding>
+      <binding name="total">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">18</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="o">
+        <uri>http://www.ict-omelette.eu/omr/categories/security</uri>
+      </binding>
+      <binding name="total">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">15</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="o">
+        <uri>http://www.ict-omelette.eu/omr/categories/photos</uri>
+      </binding>
+      <binding name="total">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">14</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="o">
+        <uri>http://www.ict-omelette.eu/omr/categories/video</uri>
+      </binding>
+      <binding name="total">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">14</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="o">
+        <uri>http://www.ict-omelette.eu/omr/categories/travel</uri>
+      </binding>
+      <binding name="total">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">14</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="o">
+        <uri>http://www.ict-omelette.eu/omr/categories/advertising</uri>
+      </binding>
+      <binding name="total">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">13</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="o">
+        <uri>http://www.ict-omelette.eu/omr/categories/transportation</uri>
+      </binding>
+      <binding name="total">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">12</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="o">
+        <uri>http://www.ict-omelette.eu/omr/categories/utility</uri>
+      </binding>
+      <binding name="total">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">11</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="o">
+        <uri>http://www.ict-omelette.eu/omr/categories/events</uri>
+      </binding>
+      <binding name="total">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">10</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="o">
+        <uri>http://www.ict-omelette.eu/omr/categories/education</uri>
+      </binding>
+      <binding name="total">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">10</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="o">
+        <uri>http://www.ict-omelette.eu/omr/categories/project_management</uri>
+      </binding>
+      <binding name="total">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">10</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="o">
+        <uri>http://www.ict-omelette.eu/omr/categories/medical</uri>
+      </binding>
+      <binding name="total">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">10</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="o">
+        <uri>http://www.ict-omelette.eu/omr/categories/sports</uri>
+      </binding>
+      <binding name="total">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">9</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="o">
+        <uri>http://www.ict-omelette.eu/omr/categories/news</uri>
+      </binding>
+      <binding name="total">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">8</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="o">
+        <uri>http://www.ict-omelette.eu/omr/categories/office</uri>
+      </binding>
+      <binding name="total">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">8</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="o">
+        <uri>http://www.ict-omelette.eu/omr/categories/storage</uri>
+      </binding>
+      <binding name="total">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">8</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="o">
+        <uri>http://www.ict-omelette.eu/omr/categories/games</uri>
+      </binding>
+      <binding name="total">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">8</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="o">
+        <uri>http://www.ict-omelette.eu/omr/categories/blogging</uri>
+      </binding>
+      <binding name="total">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">8</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="o">
+        <uri>http://www.ict-omelette.eu/omr/categories/recommendations</uri>
+      </binding>
+      <binding name="total">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">5</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="o">
+        <uri>http://www.ict-omelette.eu/omr/categories/file_sharing</uri>
+      </binding>
+      <binding name="total">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">5</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="o">
+        <uri>http://www.ict-omelette.eu/omr/categories/backend</uri>
+      </binding>
+      <binding name="total">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">5</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="o">
+        <uri>http://www.ict-omelette.eu/omr/categories/database</uri>
+      </binding>
+      <binding name="total">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">5</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="o">
+        <uri>http://www.ict-omelette.eu/omr/categories/media_management</uri>
+      </binding>
+      <binding name="total">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">4</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="o">
+        <uri>http://www.ict-omelette.eu/omr/categories/chat</uri>
+      </binding>
+      <binding name="total">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">4</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="o">
+        <uri>http://www.ict-omelette.eu/omr/categories/feeds</uri>
+      </binding>
+      <binding name="total">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">4</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="o">
+        <uri>http://www.ict-omelette.eu/omr/categories/shipping</uri>
+      </binding>
+      <binding name="total">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">4</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="o">
+        <uri>http://www.ict-omelette.eu/omr/categories/weather</uri>
+      </binding>
+      <binding name="total">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">4</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="o">
+        <uri>http://www.ict-omelette.eu/omr/categories/politics</uri>
+      </binding>
+      <binding name="total">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">3</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="o">
+        <uri>http://www.ict-omelette.eu/omr/categories/pim</uri>
+      </binding>
+      <binding name="total">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">3</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="o">
+        <uri>http://www.ict-omelette.eu/omr/categories/job_search</uri>
+      </binding>
+      <binding name="total">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">3</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="o">
+        <uri>http://www.ict-omelette.eu/omr/categories/real_estate</uri>
+      </binding>
+      <binding name="total">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">3</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="o">
+        <uri>http://www.ict-omelette.eu/omr/categories/entertainment</uri>
+      </binding>
+      <binding name="total">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">3</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="o">
+        <uri>http://www.ict-omelette.eu/omr/categories/calendar</uri>
+      </binding>
+      <binding name="total">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">3</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="o">
+        <uri>http://www.ict-omelette.eu/omr/categories/bookmarks</uri>
+      </binding>
+      <binding name="total">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">2</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="o">
+        <uri>http://www.ict-omelette.eu/omr/categories/answers</uri>
+      </binding>
+      <binding name="total">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">2</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="o">
+        <uri>http://www.ict-omelette.eu/omr/categories/dictionary</uri>
+      </binding>
+      <binding name="total">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">2</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="o">
+        <uri>http://www.ict-omelette.eu/omr/categories/food</uri>
+      </binding>
+      <binding name="total">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">2</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="o">
+        <uri>http://www.ict-omelette.eu/omr/categories/retail</uri>
+      </binding>
+      <binding name="total">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">2</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="o">
+        <bnode>node1747jmcbtx14</bnode>
+      </binding>
+      <binding name="total">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="o">
+        <bnode>node17722utnlx4</bnode>
+      </binding>
+      <binding name="total">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="o">
+        <bnode>node17722utnlx5</bnode>
+      </binding>
+      <binding name="total">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="o">
+        <bnode>node17722utnlx6</bnode>
+      </binding>
+      <binding name="total">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="o">
+        <uri>http://www.ict-omelette.eu/omr/categories/fax</uri>
+      </binding>
+      <binding name="total">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="o">
+        <uri>http://www.ict-omelette.eu/omr/categories/wiki</uri>
+      </binding>
+      <binding name="total">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="o">
+        <uri>http://www.ict-omelette.eu/omr/categories/goal_setting</uri>
+      </binding>
+      <binding name="total">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="o">
+        <uri>http://www.ict-omelette.eu/omr/categories/blog_search</uri>
+      </binding>
+      <binding name="total">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="o">
+        <bnode>node1784b1gnhx161</bnode>
+      </binding>
+      <binding name="total">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="o">
+        <bnode>node178h50b47x97</bnode>
+      </binding>
+      <binding name="total">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="o">
+        <bnode>node178h50b47x98</bnode>
+      </binding>
+      <binding name="total">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="o">
+        <bnode>node178h50b47x99</bnode>
+      </binding>
+      <binding name="total">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="o">
+        <bnode>node178h50b47x100</bnode>
+      </binding>
+      <binding name="total">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="o">
+        <bnode>node178h50b47x109</bnode>
+      </binding>
+      <binding name="total">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="o">
+        <bnode>node178h50b47x110</bnode>
+      </binding>
+      <binding name="total">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="o">
+        <bnode>node178h50b47x111</bnode>
+      </binding>
+      <binding name="total">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="o">
+        <bnode>node178h50b47x112</bnode>
+      </binding>
+      <binding name="total">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="o">
+        <bnode>node178h50b47x113</bnode>
+      </binding>
+      <binding name="total">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="o">
+        <bnode>node178h50b47x114</bnode>
+      </binding>
+      <binding name="total">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="o">
+        <bnode>node178oirm7ex5</bnode>
+      </binding>
+      <binding name="total">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="o">
+        <bnode>node178oirm7ex17</bnode>
+      </binding>
+      <binding name="total">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="o">
+        <bnode>node178oirm7ex18</bnode>
+      </binding>
+      <binding name="total">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="o">
+        <bnode>node178oirm7ex19</bnode>
+      </binding>
+      <binding name="total">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="o">
+        <bnode>node178oirm7ex33</bnode>
+      </binding>
+      <binding name="total">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="o">
+        <bnode>node178oirm7ex34</bnode>
+      </binding>
+      <binding name="total">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="o">
+        <bnode>node178oirm7ex35</bnode>
+      </binding>
+      <binding name="total">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="o">
+        <bnode>node178oirm7ex45</bnode>
+      </binding>
+      <binding name="total">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="o">
+        <bnode>node178oirm7ex51</bnode>
+      </binding>
+      <binding name="total">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="o">
+        <bnode>node178oirm7ex52</bnode>
+      </binding>
+      <binding name="total">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="o">
+        <bnode>node178oirm7ex53</bnode>
+      </binding>
+      <binding name="total">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="o">
+        <bnode>node178oirm7ex65</bnode>
+      </binding>
+      <binding name="total">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="o">
+        <bnode>node178oirm7ex66</bnode>
+      </binding>
+      <binding name="total">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="o">
+        <bnode>node178oirm7ex67</bnode>
+      </binding>
+      <binding name="total">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="o">
+        <bnode>node178oirm7ex68</bnode>
+      </binding>
+      <binding name="total">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="o">
+        <bnode>node178oirm7ex69</bnode>
+      </binding>
+      <binding name="total">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="o">
+        <bnode>node178oirm7ex91</bnode>
+      </binding>
+      <binding name="total">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="o">
+        <bnode>node178oirm7ex92</bnode>
+      </binding>
+      <binding name="total">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="o">
+        <bnode>node178oirm7ex120</bnode>
+      </binding>
+      <binding name="total">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="o">
+        <bnode>node178oirm7ex141</bnode>
+      </binding>
+      <binding name="total">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="o">
+        <bnode>node178oirm7ex151</bnode>
+      </binding>
+      <binding name="total">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="o">
+        <bnode>node178oirm7ex169</bnode>
+      </binding>
+      <binding name="total">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="o">
+        <bnode>node178oirm7ex189</bnode>
+      </binding>
+      <binding name="total">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="o">
+        <bnode>node178oirm7ex190</bnode>
+      </binding>
+      <binding name="total">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="o">
+        <bnode>node178oirm7ex210</bnode>
+      </binding>
+      <binding name="total">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="o">
+        <bnode>node179iih0lpx3</bnode>
+      </binding>
+      <binding name="total">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="o">
+        <bnode>node179iih0lpx4</bnode>
+      </binding>
+      <binding name="total">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1</literal>
+      </binding>
+    </result>
+  </results>
+</sparql>

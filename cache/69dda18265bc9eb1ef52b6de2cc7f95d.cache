@@ -1,0 +1,273 @@
+<?xml version="1.0" encoding="utf-8"?>
+<sparql xmlns="http://www.w3.org/2005/sparql-results#">
+  <head>
+    <variable name="p" />
+    <variable name="o" />
+  </head>
+  <results>
+    <result>
+      <binding name="p">
+        <uri>http://www.w3.org/1999/02/22-rdf-syntax-ns#type</uri>
+      </binding>
+      <binding name="o">
+        <uri>http://www.ict-omelette.eu/schema.rdf#Service</uri>
+      </binding>
+    </result>
+    <result>
+      <binding name="p">
+        <uri>http://purl.org/dc/elements/1.1/description</uri>
+      </binding>
+      <binding name="o">
+        <literal>Cambridge University Library is a system of libraries that supports teaching and research at the University of Cambridge. The Library provides a suite of APIs to access and interact with the library catalog and other online services. These APIs include catalogue data, ejournal holdings information, DSpace institutional repository, circulation services, and more.The APIs are RESTful and return responses in XML and JSON formats.</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="p">
+        <uri>http://www.w3.org/2000/01/rdf-schema#label</uri>
+      </binding>
+      <binding name="o">
+        <literal>Cambridge University Library  API</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="p">
+        <uri>http://www.ict-omelette.eu/schema.rdf#hasRegistryEntry</uri>
+      </binding>
+      <binding name="o">
+        <uri>https://vsr-web.informatik.tu-chemnitz.de/omr/components/feedItem?name=https://vsr-web.informatik.tu-chemnitz.de/omr/components/graphs/91ba00d2-d298-4f9c-98e5-16e1acdd46c5</uri>
+      </binding>
+    </result>
+    <result>
+      <binding name="p">
+        <uri>http://www.ict-omelette.eu/schema.rdf#hasRegistryEntry</uri>
+      </binding>
+      <binding name="o">
+        <uri>https://vsr-web.informatik.tu-chemnitz.de/omr/components/feedItem?name=https://vsr-web.informatik.tu-chemnitz.de/omr/components/graphs/d8cda530-1879-432a-a4f2-85c1034870d5</uri>
+      </binding>
+    </result>
+    <result>
+      <binding name="p">
+        <uri>http://www.ict-omelette.eu/schema.rdf#hasRegistryEntry</uri>
+      </binding>
+      <binding name="o">
+        <uri>https://vsr-web.informatik.tu-chemnitz.de/omr/components/feedItem?name=https://vsr-web.informatik.tu-chemnitz.de/omr/components/graphs/2c081ea2-1b3f-4fb2-9859-49e71ca64385</uri>
+      </binding>
+    </result>
+    <result>
+      <binding name="p">
+        <uri>http://www.ict-omelette.eu/schema.rdf#hasRegistryEntry</uri>
+      </binding>
+      <binding name="o">
+        <uri>https://vsr-web.informatik.tu-chemnitz.de/omr/components/feedItem?name=https://vsr-web.informatik.tu-chemnitz.de/omr/components/graphs/0c82467c-27f0-4dcd-abcb-c7148c4b7f2f</uri>
+      </binding>
+    </result>
+    <result>
+      <binding name="p">
+        <uri>http://www.ict-omelette.eu/schema.rdf#hasRegistryEntry</uri>
+      </binding>
+      <binding name="o">
+        <uri>https://vsr-web.informatik.tu-chemnitz.de/omr/components/feedItem?name=https://vsr-web.informatik.tu-chemnitz.de/omr/components/graphs/172e7fa4-29a5-4054-842f-3192759cf18f</uri>
+      </binding>
+    </result>
+    <result>
+      <binding name="p">
+        <uri>http://www.ict-omelette.eu/schema.rdf#hasRegistryEntry</uri>
+      </binding>
+      <binding name="o">
+        <uri>https://vsr-web.informatik.tu-chemnitz.de/omr/components/feedItem?name=https://vsr-web.informatik.tu-chemnitz.de/omr/components/graphs/1dd78d6f-5302-4d8d-a142-bad2c564246e</uri>
+      </binding>
+    </result>
+    <result>
+      <binding name="p">
+        <uri>http://www.ict-omelette.eu/schema.rdf#hasRegistryEntry</uri>
+      </binding>
+      <binding name="o">
+        <uri>https://vsr-web.informatik.tu-chemnitz.de/omr/components/feedItem?name=https://vsr-web.informatik.tu-chemnitz.de/omr/components/graphs/2f2d9bd8-5728-4397-8268-8b3aa2b59019</uri>
+      </binding>
+    </result>
+    <result>
+      <binding name="p">
+        <uri>http://www.ict-omelette.eu/schema.rdf#hasRegistryEntry</uri>
+      </binding>
+      <binding name="o">
+        <uri>https://vsr-web.informatik.tu-chemnitz.de/omr/components/feedItem?name=https://vsr-web.informatik.tu-chemnitz.de/omr/components/graphs/6b687a37-e4e6-4c88-8cf6-155f65d8ac9f</uri>
+      </binding>
+    </result>
+    <result>
+      <binding name="p">
+        <uri>http://www.ict-omelette.eu/schema.rdf#hasRegistryEntry</uri>
+      </binding>
+      <binding name="o">
+        <uri>https://vsr-web.informatik.tu-chemnitz.de/omr/components/feedItem?name=https://vsr-web.informatik.tu-chemnitz.de/omr/components/graphs/a79ecbb2-f966-454c-a0c0-61fc878da24a</uri>
+      </binding>
+    </result>
+    <result>
+      <binding name="p">
+        <uri>http://purl.org/dc/terms/isPartOf</uri>
+      </binding>
+      <binding name="o">
+        <uri>https://vsr-web.informatik.tu-chemnitz.de/omr/components/graphs/?name=https://vsr-web.informatik.tu-chemnitz.de/omr/components/graphs/91ba00d2-d298-4f9c-98e5-16e1acdd46c5</uri>
+      </binding>
+    </result>
+    <result>
+      <binding name="p">
+        <uri>http://purl.org/dc/terms/isPartOf</uri>
+      </binding>
+      <binding name="o">
+        <uri>https://vsr-web.informatik.tu-chemnitz.de/omr/components/graphs/?name=https://vsr-web.informatik.tu-chemnitz.de/omr/components/graphs/d8cda530-1879-432a-a4f2-85c1034870d5</uri>
+      </binding>
+    </result>
+    <result>
+      <binding name="p">
+        <uri>http://purl.org/dc/terms/isPartOf</uri>
+      </binding>
+      <binding name="o">
+        <uri>https://vsr-web.informatik.tu-chemnitz.de/omr/components/graphs/?name=https://vsr-web.informatik.tu-chemnitz.de/omr/components/graphs/2c081ea2-1b3f-4fb2-9859-49e71ca64385</uri>
+      </binding>
+    </result>
+    <result>
+      <binding name="p">
+        <uri>http://purl.org/dc/terms/isPartOf</uri>
+      </binding>
+      <binding name="o">
+        <uri>https://vsr-web.informatik.tu-chemnitz.de/omr/components/graphs/?name=https://vsr-web.informatik.tu-chemnitz.de/omr/components/graphs/0c82467c-27f0-4dcd-abcb-c7148c4b7f2f</uri>
+      </binding>
+    </result>
+    <result>
+      <binding name="p">
+        <uri>http://purl.org/dc/terms/isPartOf</uri>
+      </binding>
+      <binding name="o">
+        <uri>https://vsr-web.informatik.tu-chemnitz.de/omr/components/graphs/?name=https://vsr-web.informatik.tu-chemnitz.de/omr/components/graphs/172e7fa4-29a5-4054-842f-3192759cf18f</uri>
+      </binding>
+    </result>
+    <result>
+      <binding name="p">
+        <uri>http://purl.org/dc/terms/isPartOf</uri>
+      </binding>
+      <binding name="o">
+        <uri>https://vsr-web.informatik.tu-chemnitz.de/omr/components/graphs/?name=https://vsr-web.informatik.tu-chemnitz.de/omr/components/graphs/1dd78d6f-5302-4d8d-a142-bad2c564246e</uri>
+      </binding>
+    </result>
+    <result>
+      <binding name="p">
+        <uri>http://purl.org/dc/terms/isPartOf</uri>
+      </binding>
+      <binding name="o">
+        <uri>https://vsr-web.informatik.tu-chemnitz.de/omr/components/graphs/?name=https://vsr-web.informatik.tu-chemnitz.de/omr/components/graphs/2f2d9bd8-5728-4397-8268-8b3aa2b59019</uri>
+      </binding>
+    </result>
+    <result>
+      <binding name="p">
+        <uri>http://purl.org/dc/terms/isPartOf</uri>
+      </binding>
+      <binding name="o">
+        <uri>https://vsr-web.informatik.tu-chemnitz.de/omr/components/graphs/?name=https://vsr-web.informatik.tu-chemnitz.de/omr/components/graphs/6b687a37-e4e6-4c88-8cf6-155f65d8ac9f</uri>
+      </binding>
+    </result>
+    <result>
+      <binding name="p">
+        <uri>http://purl.org/dc/terms/isPartOf</uri>
+      </binding>
+      <binding name="o">
+        <uri>https://vsr-web.informatik.tu-chemnitz.de/omr/components/graphs/?name=https://vsr-web.informatik.tu-chemnitz.de/omr/components/graphs/a79ecbb2-f966-454c-a0c0-61fc878da24a</uri>
+      </binding>
+    </result>
+    <result>
+      <binding name="p">
+        <uri>http://purl.org/dc/elements/1.1/source</uri>
+      </binding>
+      <binding name="o">
+        <uri>http://www.programmableweb.com/api/cambridge-university-library</uri>
+      </binding>
+    </result>
+    <result>
+      <binding name="p">
+        <uri>http://www.ict-omelette.eu/schema.rdf#categorizedBy</uri>
+      </binding>
+      <binding name="o">
+        <uri>http://www.ict-omelette.eu/omr/categories/reference</uri>
+      </binding>
+    </result>
+    <result>
+      <binding name="p">
+        <uri>http://commontag.org/ns#tagged</uri>
+      </binding>
+      <binding name="o">
+        <uri>http://www.ict-omelette.eu/omr/tags/deadpool</uri>
+      </binding>
+    </result>
+    <result>
+      <binding name="p">
+        <uri>http://commontag.org/ns#tagged</uri>
+      </binding>
+      <binding name="o">
+        <uri>http://www.ict-omelette.eu/omr/tags/library</uri>
+      </binding>
+    </result>
+    <result>
+      <binding name="p">
+        <uri>http://commontag.org/ns#tagged</uri>
+      </binding>
+      <binding name="o">
+        <uri>http://www.ict-omelette.eu/omr/tags/reference</uri>
+      </binding>
+    </result>
+    <result>
+      <binding name="p">
+        <uri>http://commontag.org/ns#tagged</uri>
+      </binding>
+      <binding name="o">
+        <uri>http://www.ict-omelette.eu/omr/tags/catalog</uri>
+      </binding>
+    </result>
+    <result>
+      <binding name="p">
+        <uri>http://commontag.org/ns#tagged</uri>
+      </binding>
+      <binding name="o">
+        <uri>http://www.ict-omelette.eu/omr/tags/database</uri>
+      </binding>
+    </result>
+    <result>
+      <binding name="p">
+        <uri>http://www.ict-omelette.eu/schema.rdf#protocol</uri>
+      </binding>
+      <binding name="o">
+        <literal>REST</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="p">
+        <uri>http://www.ict-omelette.eu/schema.rdf#dataFormat</uri>
+      </binding>
+      <binding name="o">
+        <literal>XML</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="p">
+        <uri>http://www.ict-omelette.eu/schema.rdf#dataFormat</uri>
+      </binding>
+      <binding name="o">
+        <literal>JSON</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="p">
+        <uri>http://www.ict-omelette.eu/schema.rdf#api</uri>
+      </binding>
+      <binding name="o">
+        <uri>http://www.lib.cam.ac.uk/api/</uri>
+      </binding>
+    </result>
+    <result>
+      <binding name="p">
+        <uri>http://www.ict-omelette.eu/schema.rdf#revised</uri>
+      </binding>
+      <binding name="o">
+        <literal>true</literal>
+      </binding>
+    </result>
+  </results>
+</sparql>

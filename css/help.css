@@ -1,0 +1,69 @@
+h2.caption{
+	color: #494949;
+	text-shadow: 1px 1px 1px #CFCFCF;
+	font-size: 23px;
+	line-height: 30px;
+	font-weight: normal;
+}
+
+h3.caption{
+	color: #494949;
+	text-shadow: 1px 1px 1px #CFCFCF;
+	font-size: 16px;
+	line-height: 15px;
+	font-weight: normal;
+}
+
+.right{
+	text-align: right;
+}
+
+.left{
+	text-align: left;	
+	position: relative;
+	left: -80px;
+}
+
+div.info{
+	padding: 20px;
+	margin-bottom: 40px;
+	box-shadow: -3px 0px 20px #888;
+	min-height: 150px;
+	width: 50em;
+}
+
+div.info img{
+	max-height: 140px;
+}
+
+.img-left{
+	float:left;
+	position: relative;
+	left: -80px;
+}
+
+.img-right{
+	float:right;
+}
+
+.thumbnail{
+	width: 140px;
+	
+}
+
+p img{
+	vertical-align: middle;
+}
+
+.screenshot{
+	position: relative;
+	left: 53em;
+	width: 80px;
+	float: left;
+}
+.screenshot h3{
+	text-align: right;
+}
+
+.screenshot img{
+}

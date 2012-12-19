@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<sparql xmlns="http://www.w3.org/2005/sparql-results#">
+  <head>
+    <variable name="o" />
+    <variable name="total" />
+  </head>
+  <results>
+    <result>
+      <binding name="o">
+        <literal>true</literal>
+      </binding>
+      <binding name="total">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">336</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="o">
+        <literal>false</literal>
+      </binding>
+      <binding name="total">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">138</literal>
+      </binding>
+    </result>
+  </results>
+</sparql>

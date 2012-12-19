@@ -1,0 +1,1205 @@
+<?xml version="1.0" encoding="utf-8"?>
+<sparql xmlns="http://www.w3.org/2005/sparql-results#">
+  <head>
+    <variable name="a" />
+    <variable name="label" />
+    <variable name="desc" />
+    <variable name="uri" />
+    <variable name="rating" />
+  </head>
+  <results>
+    <result>
+      <binding name="a">
+        <uri>http://example.org/widgets/1</uri>
+      </binding>
+      <binding name="label">
+        <literal>HelloWorldService</literal>
+      </binding>
+      <binding name="desc">
+        <literal>This is my first service</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="a">
+        <uri>urn:w3c:widgetconverter:D4-1D-8C-D9-8F-00-B2-04-E9-80-09-98-EC-F8-42-7E</uri>
+      </binding>
+      <binding name="label">
+        <literal />
+      </binding>
+      <binding name="desc">
+        <literal />
+      </binding>
+    </result>
+    <result>
+      <binding name="a">
+        <uri>urn:w3c:widgetconverter:05-3F-42-C6-BA-E3-43-2C-AE-27-0E-A9-78-F7-E6-38</uri>
+      </binding>
+      <binding name="label">
+        <literal>Fujitsu</literal>
+      </binding>
+      <binding name="desc">
+        <literal />
+      </binding>
+    </result>
+    <result>
+      <binding name="a">
+        <uri>http://www.programmableweb.com/mashup/22books</uri>
+      </binding>
+      <binding name="label">
+        <literal>22books</literal>
+      </binding>
+      <binding name="desc">
+        <literal>22books is dedicated to the creating, sharing, and viewing of book lists. Create your free book list and see the unique user experience when you add books to your list.</literal>
+      </binding>
+      <binding name="rating">
+        <literal>0.840112014935325</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="a">
+        <uri>http://www.sap.com/widgets/sendsms-universal</uri>
+      </binding>
+      <binding name="label">
+        <literal>SAP Send SMS Widget</literal>
+      </binding>
+      <binding name="desc">
+        <literal>This widget enables one to send SMS to a given number</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="a">
+        <uri>http://www.getwookie.org/widgets/sudoku</uri>
+      </binding>
+      <binding name="label">
+        <literal>Sudoku</literal>
+      </binding>
+      <binding name="desc">
+        <literal>Sudoku</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="a">
+        <uri>http://www.example.com/widgets/HelloWidget</uri>
+      </binding>
+      <binding name="label">
+        <literal>asd</literal>
+      </binding>
+      <binding name="desc">
+        <literal>asd</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="a">
+        <uri>http://www.example.com/widgets/HelloWidget</uri>
+      </binding>
+      <binding name="label">
+        <literal>asd2</literal>
+      </binding>
+      <binding name="desc">
+        <literal>asd</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="a">
+        <uri>http://www.programmableweb.com/api/geocoder</uri>
+      </binding>
+      <binding name="label">
+        <literal>geocoder API</literal>
+      </binding>
+      <binding name="desc">
+        <literal>Geocoder.us is a public service providing free geocoding of ad-dresses and intersections in the United States. Using the service you can find the latitude &amp; longitude of any US address and much more. Geocoder.us offers four different ways to access our web services: an XML-RPC interface, a SOAP interface, a REST interface that returns an RDF/XML document, and a REST interface that returns a plain text comma separated values result. The methods and return values are equivalent across all three interfaces.</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="a">
+        <uri>http://www.sap.com/widgets/sendsms-developergarden</uri>
+      </binding>
+      <binding name="label">
+        <literal>Send SMS</literal>
+      </binding>
+      <binding name="desc">
+        <literal>Widget for sending SMS messages that uses Deutsche Telekom as a service provider.</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="a">
+        <uri>https://vsr-web.informatik.tu-chemnitz.de/omr/data/BILDde_Leser-Reporter_14092012_133915.wgt</uri>
+      </binding>
+      <binding name="label">
+        <literal>BILD.de Leser-Reporter</literal>
+      </binding>
+      <binding name="desc">
+        <literal>Displays latest post from a feed</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="a">
+        <uri>https://vsr-web.informatik.tu-chemnitz.de/omr/data/Bilder_des_Tages_-_sternde_14092012_133923.wgt</uri>
+      </binding>
+      <binding name="label">
+        <literal>Bilder des Tages - stern.de</literal>
+      </binding>
+      <binding name="desc">
+        <literal>Displays latest post from a feed</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="a">
+        <uri>https://vsr-web.informatik.tu-chemnitz.de/omr/data/derStandardat_14092012_133929.wgt</uri>
+      </binding>
+      <binding name="label">
+        <literal>derStandard.at</literal>
+      </binding>
+      <binding name="desc">
+        <literal>Displays latest post from a feed</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="a">
+        <uri>https://vsr-web.informatik.tu-chemnitz.de/omr/data/Focus_14092012_134433.wgt</uri>
+      </binding>
+      <binding name="label">
+        <literal>Focus</literal>
+      </binding>
+      <binding name="desc">
+        <literal>Displays latest post from a feed</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="a">
+        <uri>https://vsr-web.informatik.tu-chemnitz.de/omr/data/Goethe-Institut_-_Deutsch_14092012_134441.wgt</uri>
+      </binding>
+      <binding name="label">
+        <literal>Goethe-Institut - Deutsch</literal>
+      </binding>
+      <binding name="desc">
+        <literal>Displays latest post from a feed</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="a">
+        <uri>urn:w3c:widgetconverter:B1-3A-FE-2C-8D-32-73-F7-EB-AB-99-B6-FE-5F-0F-CD</uri>
+      </binding>
+      <binding name="label">
+        <literal>BBC</literal>
+      </binding>
+      <binding name="desc">
+        <literal>Displays latest post from a feed</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="a">
+        <uri>urn:w3c:widgetconverter:65-B3-9A-75-5E-51-04-E0-CB-E3-9E-7C-F4-59-71-D2</uri>
+      </binding>
+      <binding name="label">
+        <literal>CBC  | Canada</literal>
+      </binding>
+      <binding name="desc">
+        <literal>Displays latest post from a feed</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="a">
+        <uri>urn:w3c:widgetconverter:68-76-26-8D-6F-37-5A-CA-82-25-5C-F0-65-19-55-50</uri>
+      </binding>
+      <binding name="label">
+        <literal>ESPN.com</literal>
+      </binding>
+      <binding name="desc">
+        <literal>Displays latest post from a feed</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="a">
+        <uri>urn:w3c:widgetconverter:D2-BC-26-20-A1-65-42-82-A0-B5-95-8F-B8-6D-10-93</uri>
+      </binding>
+      <binding name="label">
+        <literal>Forbes.com Business News</literal>
+      </binding>
+      <binding name="desc">
+        <literal>Displays latest post from a feed</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="a">
+        <uri>urn:w3c:widgetconverter:80-45-9F-49-C9-B7-FD-72-50-55-1D-81-56-A3-58-05</uri>
+      </binding>
+      <binding name="label">
+        <literal>Google News</literal>
+      </binding>
+      <binding name="desc">
+        <literal>Displays latest post from a feed</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="a">
+        <uri>urn:w3c:widgetconverter:70-C8-2D-9F-46-18-49-64-28-D0-8E-09-EC-29-4B-DF</uri>
+      </binding>
+      <binding name="label">
+        <literal>iVillage.com</literal>
+      </binding>
+      <binding name="desc">
+        <literal>Displays latest post from a feed</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="a">
+        <uri>urn:w3c:widgetconverter:48-A8-CD-36-4A-2A-41-D2-5A-88-1E-5D-C3-54-64-00</uri>
+      </binding>
+      <binding name="label">
+        <literal>MTV News</literal>
+      </binding>
+      <binding name="desc">
+        <literal>Displays latest post from a feed</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="a">
+        <uri>urn:w3c:widgetconverter:94-AF-27-22-23-6B-7C-F8-8A-86-B2-75-90-57-A8-0B</uri>
+      </binding>
+      <binding name="label">
+        <literal>NBA.com: News</literal>
+      </binding>
+      <binding name="desc">
+        <literal>Displays latest post from a feed</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="a">
+        <uri>urn:w3c:widgetconverter:85-68-C5-59-76-1E-5E-24-A5-BA-FB-2C-26-D5-50-AF</uri>
+      </binding>
+      <binding name="label">
+        <literal>New York Times</literal>
+      </binding>
+      <binding name="desc">
+        <literal>Displays latest post from a feed</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="a">
+        <uri>urn:w3c:widgetconverter:EE-66-E2-43-64-55-6D-65-2F-9E-AF-81-ED-9F-AC-5E</uri>
+      </binding>
+      <binding name="label">
+        <literal>pixelaider Toolbar</literal>
+      </binding>
+      <binding name="desc">
+        <literal>Displays latest post from a feed</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="a">
+        <uri>urn:w3c:widgetconverter:8C-61-02-3C-82-2E-BB-12-64-49-2C-40-09-4B-2D-2F</uri>
+      </binding>
+      <binding name="label">
+        <literal>Politico.com</literal>
+      </binding>
+      <binding name="desc">
+        <literal>Displays latest post from a feed</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="a">
+        <uri>urn:w3c:widgetconverter:54-24-4B-B5-72-50-95-C9-DA-EE-02-98-4D-EB-0C-A7</uri>
+      </binding>
+      <binding name="label">
+        <literal>Rolling Stone: Music News</literal>
+      </binding>
+      <binding name="desc">
+        <literal>Displays latest post from a feed</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="a">
+        <uri>urn:w3c:widgetconverter:6B-F8-B5-F1-12-57-43-58-76-50-28-39-B5-81-E6-A2</uri>
+      </binding>
+      <binding name="label">
+        <literal>Technology Review</literal>
+      </binding>
+      <binding name="desc">
+        <literal>Displays latest post from a feed</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="a">
+        <uri>urn:w3c:widgetconverter:E6-EA-6D-62-5A-89-3C-04-73-76-39-58-39-78-4B-D2</uri>
+      </binding>
+      <binding name="label">
+        <literal>The News is NowPublic</literal>
+      </binding>
+      <binding name="desc">
+        <literal>Displays latest post from a feed</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="a">
+        <uri>urn:w3c:widgetconverter:CA-D6-5C-F5-8F-E1-7E-1C-5D-FB-8D-32-4C-FE-AC-11</uri>
+      </binding>
+      <binding name="label">
+        <literal>USATODAY.com Tennis</literal>
+      </binding>
+      <binding name="desc">
+        <literal>Displays latest post from a feed</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="a">
+        <uri>urn:w3c:widgetconverter:57-3A-9B-93-18-B4-77-98-44-AD-88-AD-6C-99-50-BD</uri>
+      </binding>
+      <binding name="label">
+        <literal>WashingtonPost</literal>
+      </binding>
+      <binding name="desc">
+        <literal>Displays latest post from a feed</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="a">
+        <uri>urn:w3c:widgetconverter:AF-C9-15-C6-1E-5E-AE-73-71-9F-A1-11-16-33-20-18</uri>
+      </binding>
+      <binding name="label">
+        <literal>Washington Post</literal>
+      </binding>
+      <binding name="desc">
+        <literal>Displays latest post from a feed</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="a">
+        <uri>urn:w3c:widgetconverter:0B-0E-16-7C-0E-42-58-2D-68-97-90-E5-C0-E4-C0-E6</uri>
+      </binding>
+      <binding name="label">
+        <literal>Yahoo! Technology</literal>
+      </binding>
+      <binding name="desc">
+        <literal>Displays latest post from a feed</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="a">
+        <uri>urn:w3c:widgetconverter:42-EB-B0-37-11-C6-3E-E8-B1-55-55-90-53-7A-C5-63</uri>
+      </binding>
+      <binding name="label">
+        <literal>Yahoo! Sports News</literal>
+      </binding>
+      <binding name="desc">
+        <literal>Displays latest post from a feed</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="a">
+        <uri>urn:w3c:widgetconverter:F6-C1-77-2C-7C-83-C8-D5-85-52-C1-D2-5A-2F-9B-CC</uri>
+      </binding>
+      <binding name="label">
+        <literal>Yahoo! Politics</literal>
+      </binding>
+      <binding name="desc">
+        <literal>Displays latest post from a feed</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="a">
+        <uri>urn:w3c:widgetconverter:8A-55-90-52-DE-46-64-4E-0E-37-68-B5-8F-49-77-71</uri>
+      </binding>
+      <binding name="label">
+        <literal>Yahoo! NFL</literal>
+      </binding>
+      <binding name="desc">
+        <literal>Displays latest post from a feed</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="a">
+        <uri>urn:w3c:widgetconverter:57-1D-4E-9D-FF-23-60-05-D4-DF-4D-91-B2-E5-1C-01</uri>
+      </binding>
+      <binding name="label">
+        <literal>Yahoo! News: Most Viewed</literal>
+      </binding>
+      <binding name="desc">
+        <literal>Displays latest post from a feed</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="a">
+        <uri>urn:w3c:widgetconverter:B3-31-4B-E8-59-D4-B3-9C-C2-19-EB-21-33-E3-B9-38</uri>
+      </binding>
+      <binding name="label">
+        <literal>Yahoo! News - Health</literal>
+      </binding>
+      <binding name="desc">
+        <literal>Displays latest post from a feed</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="a">
+        <uri>urn:w3c:widgetconverter:0F-30-C9-23-C7-7B-92-D3-AD-FB-85-50-9D-28-2A-2F</uri>
+      </binding>
+      <binding name="label">
+        <literal>Yahoo! News: Business</literal>
+      </binding>
+      <binding name="desc">
+        <literal>Displays latest post from a feed</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="a">
+        <uri>urn:w3c:widgetconverter:9A-E1-39-A6-D4-67-15-57-5F-A7-26-53-1C-66-DE-A0</uri>
+      </binding>
+      <binding name="label">
+        <literal>Yahoo! Music Top Videos</literal>
+      </binding>
+      <binding name="desc">
+        <literal>Displays latest post from a feed</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="a">
+        <uri>https://vsr-web.informatik.tu-chemnitz.de/omr/data/Deutsche_Bahn_-_Fahrplanauskunft_14092012_133912.wgt</uri>
+      </binding>
+      <binding name="label">
+        <literal>Deutsche Bahn - Fahrplanauskunft</literal>
+      </binding>
+      <binding name="desc">
+        <literal>Mit diesem Gadget haben Sie die Bahnauskunft und Reiseauskunft der DB direkt auf dem Bildschirm. Fahrplan und Auskunft für jeden Bahnhof und Zug sind ebenso enthalten wie auf www.bahn.de. Um alle Abfahrten oder Ankünfte eines bestimmten Bahnhofs zu sehen, geben Sie den Namen z.B. BERLIN in das Feld VON ein und klicken danach auf den Link VON. Um zu sehen ob ein Zug pünktlich abfährt oder ankommt, geben Sie einen Bahnhof in das Feld VON ein und klicken Sie auf den Link PÜNKTLICH.      BITTE bewerten / kommentieren Sie dieses Gadget. Wir lesen alle Kommentare täglich und nutzen Ihr Feedback um neue und verbesserte Versionen des Gadgets zu entwickeln - DANKE.</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="a">
+        <uri>urn:w3c:widgetconverter:6F-1D-64-0A-1C-53-DE-F0-17-D7-B7-F1-E2-D9-4C-3A</uri>
+      </binding>
+      <binding name="label">
+        <literal>Deutsche Bahn - Fahrplanauskunft</literal>
+      </binding>
+      <binding name="desc">
+        <literal>Mit diesem Gadget haben Sie die Bahnauskunft und Reiseauskunft der DB direkt auf dem Bildschirm. Fahrplan und Auskunft für jeden Bahnhof und Zug sind ebenso enthalten wie auf www.bahn.de. Um alle Abfahrten oder Ankünfte eines bestimmten Bahnhofs zu sehen, geben Sie den Namen z.B. BERLIN in das Feld VON ein und klicken danach auf den Link VON. Um zu sehen ob ein Zug pünktlich abfährt oder ankommt, geben Sie einen Bahnhof in das Feld VON ein und klicken Sie auf den Link PÜNKTLICH.      BITTE bewerten / kommentieren Sie dieses Gadget. Wir lesen alle Kommentare täglich und nutzen Ihr Feedback um neue und verbesserte Versionen des Gadgets zu entwickeln - DANKE.</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="a">
+        <uri>https://vsr-web.informatik.tu-chemnitz.de/omr/data/Bilder_-_bildernet_14092012_133920.wgt</uri>
+      </binding>
+      <binding name="label">
+        <literal>Bilder - bilder.net</literal>
+      </binding>
+      <binding name="desc">
+        <literal>Zufällige Bilder für deine tägliche Dosis Humor.</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="a">
+        <uri>https://vsr-web.informatik.tu-chemnitz.de/omr/data/Fuball_14092012_133927.wgt</uri>
+      </binding>
+      <binding name="label">
+        <literal>Fußball</literal>
+      </binding>
+      <binding name="desc">
+        <literal>Fußball-Gadget mit der 1. Fussball Bundesliga 2011 / 2012, der 2. Bundesliga 2011 / 2012, dem DFB Pokal, Euro, Champions League und der Europa League. Powered by Google Text und Tabellen und Google News. Gadget für iGoogle</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="a">
+        <uri>https://vsr-web.informatik.tu-chemnitz.de/omr/data/CHIP_Online_-_Downloads_14092012_133932.wgt</uri>
+      </binding>
+      <binding name="label">
+        <literal>CHIP Online - Downloads</literal>
+      </binding>
+      <binding name="desc">
+        <literal>Ausgewählte Freeware und Software kostenlos downloaden bei CHIP Online. Alle Downloads gratis und natürlich virenfrei! Unsere Redakteure durchforsten für Sie das Internet auf der Suche nach den besten Downloads.</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="a">
+        <uri>urn:w3c:widgetconverter:CA-EC-59-EC-D5-1F-6A-8A-B0-D3-86-8E-BC-9E-83-B4</uri>
+      </binding>
+      <binding name="label">
+        <literal>CHIP Online - Downloads</literal>
+      </binding>
+      <binding name="desc">
+        <literal>Ausgewählte Freeware und Software kostenlos downloaden bei CHIP Online. Alle Downloads gratis und natürlich virenfrei! Unsere Redakteure durchforsten für Sie das Internet auf der Suche nach den besten Downloads.</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="a">
+        <uri>https://vsr-web.informatik.tu-chemnitz.de/omr/data/Falk_Route_planner_14092012_134428.wgt</uri>
+      </binding>
+      <binding name="label">
+        <literal>Falk Route planner</literal>
+      </binding>
+      <binding name="desc">
+        <literal>One gadget, three services: expand your Google start page with direct entry to the Falk route planner, city maps and a hotel search.</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="a">
+        <uri>urn:w3c:widgetconverter:9A-A0-48-7F-03-D9-B4-67-71-08-1B-ED-23-CC-02-72</uri>
+      </binding>
+      <binding name="label">
+        <literal>Falk Route planner</literal>
+      </binding>
+      <binding name="desc">
+        <literal>One gadget, three services: expand your Google start page with direct entry to the Falk route planner, city maps and a hotel search.</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="a">
+        <uri>https://vsr-web.informatik.tu-chemnitz.de/omr/data/Datum__Uhrzeit_14092012_134438.wgt</uri>
+      </binding>
+      <binding name="label">
+        <literal>Datum &amp; Uhrzeit</literal>
+      </binding>
+      <binding name="desc">
+        <literal>Datum und Uhrzeit mit Komfortausstattung! Datum- und/oder Uhr/Digitaluhr/Uhrzeit-Anzeige. Einstellmöglichkeiten: Die Referenzzeit wird wahlweise von unserem Zeitserver (wird mit drei Atom-Uhr NTP-Servern abgeglichen) oder vom eigenen PC verwendet. Sie können zwischen sechs unterschiedlichen Schriftarten oder einer WebFont vom Google Web Fonts Verzeichnis, vielen verschiedenen Schriftgrößen und unzähligen Formatvariationen (Uhr oben + Datum unten, Datum oben + Uhr unten, nur Uhrzeit, uvm.) auswählen und so die Darstellung nach Ihren Bedürfnissen anpassen. Zusätzlich können Sie zwischen 12-/24-Stunden-Format wählen und die Kalenderwoche und/oder den Tag des Jahres anzeigen lassen. Dieses Gadget unterstützt auch mehrere Uhren mit vielen verschiedenen Zeitzonen (Weltzeituhr, Weltuhr, World Clock). Standardmäßig wird unter der Uhrzeits- und/oder Datumsanzeige eine 234x60 Pixel große Werbeanzeige eingeblendet, die Sie jedoch mit einem Klick oder in den Gadget-Einstellungen ausblenden können.</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="a">
+        <uri>http://www.logica.com/widgets/RSSRetriever</uri>
+      </binding>
+      <binding name="label">
+        <literal>RSSRetriever</literal>
+      </binding>
+      <binding name="desc">
+        <literal>mashup</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="a">
+        <uri>http://www.logica.com/widgets/erasethiswidget</uri>
+      </binding>
+      <binding name="label">
+        <literal>erasethiswidget</literal>
+      </binding>
+      <binding name="desc">
+        <literal>mashup</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="a">
+        <uri>http://www.logica.com/widgets/customer-status</uri>
+      </binding>
+      <binding name="label">
+        <literal>customer-status</literal>
+      </binding>
+      <binding name="desc">
+        <literal>mashup</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="a">
+        <uri>http://www.logica.com/widgets/license-processor</uri>
+      </binding>
+      <binding name="label">
+        <literal>license-processor</literal>
+      </binding>
+      <binding name="desc">
+        <literal>mashup</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="a">
+        <uri>http://www.programmableweb.com/api/co-ops</uri>
+      </binding>
+      <binding name="label">
+        <literal>CO-OPS API</literal>
+      </binding>
+      <binding name="desc">
+        <literal>As part of NOAA, CO-OPS (Center for Operational Oceanographic Products and Services) monitors, assesses, and distributes information relating to tides, currents, water levels, and other coastal oceanographic indicators. CO-OPS provides several SOAP APIs that return information on water levels, tides, currents, harmonics, station metadata, and meteorology for locations along the U.S. coast.</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="a">
+        <uri>http://www.programmableweb.com/mashup/100-travel-destinations</uri>
+      </binding>
+      <binding name="label">
+        <literal>100 travel destinations</literal>
+      </binding>
+      <binding name="desc">
+        <literal>Site showing images and text from 100 worldwide travel locations. From Antarctica to Zanzibar- travel destinations around the world.</literal>
+      </binding>
+      <binding name="rating">
+        <literal>0.940125350046673</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="a">
+        <uri>http://www.programmableweb.com/mashup/tweet-a-lot</uri>
+      </binding>
+      <binding name="label">
+        <literal>#tweet-a-lot</literal>
+      </binding>
+      <binding name="desc">
+        <literal>The ultimate marketing tool to create buzz online.
+Create competitions on twitter to encourage tweeting.
+Are you holding an event? launching a product? holding a gig? Use #tweet-a-lot to get publicity online.
+Gamification of twitter posts! Incredibly addictive.
+Automatic player discovery, with nothing to install.</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="a">
+        <uri>http://www.programmableweb.com/mashup/0boxer</uri>
+      </binding>
+      <binding name="label">
+        <literal>0boxer</literal>
+      </binding>
+      <binding name="desc">
+        <literal>0Boxer is an email plugin for Gmail. Makes a game out of your email and rewards you for reaching and maintaining inbox zero.</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="a">
+        <uri>http://www.programmableweb.com/mashup/1-ordinateur</uri>
+      </binding>
+      <binding name="label">
+        <literal>1 Ordinateur</literal>
+      </binding>
+      <binding name="desc">
+        <literal>1 Ordinateur helps Compare and buy computers. Using the Shopping.com API.</literal>
+      </binding>
+      <binding name="rating">
+        <literal>0.800106680890786</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="a">
+        <uri>http://www.programmableweb.com/mashup/compare-prices.info</uri>
+      </binding>
+      <binding name="label">
+        <literal>Compare-Prices.info</literal>
+      </binding>
+      <binding name="desc">
+        <literal>This site is a demo to show the functionality of the Shopzilla.com API. Supports the US and UK  API versions.</literal>
+      </binding>
+      <binding name="rating">
+        <literal>0.980130684091212</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="a">
+        <uri>http://www.programmableweb.com/mashup/1000-songs</uri>
+      </binding>
+      <binding name="label">
+        <literal>1000 songs</literal>
+      </binding>
+      <binding name="desc">
+        <literal>Matches up The Guardian's "1000 songs to hear before you die" with Last.FM listener stats, and displays lyrics for each song from LyricWiki.org</literal>
+      </binding>
+      <binding name="rating">
+        <literal>0.860114681957594</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="a">
+        <uri>http://www.programmableweb.com/mashup/lins-stats-on-your-linkedin-social-graph</uri>
+      </binding>
+      <binding name="label">
+        <literal>#LinS Stats on Your LinkedIn Social Graph</literal>
+      </binding>
+      <binding name="desc">
+        <literal>Get some shiny stats about countries, cities and industries your contacts are from.</literal>
+      </binding>
+      <binding name="rating">
+        <literal>0.900120016002134</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="a">
+        <uri>http://www.programmableweb.com/mashup/08-celebrity-pictures-videos-and-news</uri>
+      </binding>
+      <binding name="label">
+        <literal>'08 celebrity pictures, videos and news</literal>
+      </binding>
+      <binding name="desc">
+        <literal>Watch pictures from Yahoo, videos from YouTube and read the latest news about celebrity actresses, models and singers.</literal>
+      </binding>
+      <binding name="rating">
+        <literal>0.760101346846246</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="a">
+        <uri>http://www.programmableweb.com/mashup/1001-secret-fishing-holes</uri>
+      </binding>
+      <binding name="label">
+        <literal>1001 Secret Fishing Holes</literal>
+      </binding>
+      <binding name="desc">
+        <literal>Over a thousand fishing spots in national parks, wildlife refuges, lakes, campgrounds, historic trails etc.</literal>
+      </binding>
+      <binding name="rating">
+        <literal>0.600080010668089</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="a">
+        <uri>http://www.programmableweb.com/mashup/shopping.com-api-3-demo-for-all-markets</uri>
+      </binding>
+      <binding name="label">
+        <literal>Shopping.com API 3 Demo for All Markets</literal>
+      </binding>
+      <binding name="desc">
+        <literal>This site is a demo to show the functionality of the Shopping.com API version 3. Includes all local US,UK,DE,FR,AU.</literal>
+      </binding>
+      <binding name="rating">
+        <literal>0.980130684091212</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="a">
+        <uri>http://www.programmableweb.com/mashup/10-camera</uri>
+      </binding>
+      <binding name="label">
+        <literal>10 Camera</literal>
+      </binding>
+      <binding name="desc">
+        <literal>A real-time camera mashup. Shows the 10 most recent tweets from Twitter and pictures from Flickr about cameras. Gives an idea about the current news and events surrounding cameras.</literal>
+      </binding>
+      <binding name="rating">
+        <literal>0.720096012801707</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="a">
+        <uri>http://www.programmableweb.com/mashup/ask4stuff-worldcat-twitter-search</uri>
+      </binding>
+      <binding name="label">
+        <literal>#Ask4Stuff: WorldCat Twitter Search</literal>
+      </binding>
+      <binding name="desc">
+        <literal>#Ask4Stuff is a new, Twitter-based service that returns a WorldCat search when you send a tweet with the tag #Ask4Stuff.</literal>
+      </binding>
+      <binding name="rating">
+        <literal>0.800106680890786</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="a">
+        <uri>http://www.programmableweb.com/mashup/10-fascinating-googlers</uri>
+      </binding>
+      <binding name="label">
+        <literal>10 Fascinating Googlers</literal>
+      </binding>
+      <binding name="desc">
+        <literal>Fortune Magazine list of 10 Fascinating Googlers plotted on a Google Map.</literal>
+      </binding>
+      <binding name="rating">
+        <literal>0.740098679823977</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="a">
+        <uri>http://www.programmableweb.com/mashup/docs-pound-docs</uri>
+      </binding>
+      <binding name="label">
+        <literal>#docs ("pound docs")</literal>
+      </binding>
+      <binding name="desc">
+        <literal>Lets a business share docs from their Microsoft SkyDrive over SMS via Twilio. Go to the app which is running on Windows Azure, set which SkyDrive account to use, and select a public file to share over SMS. Customers (incl. potential customers) can call the Twilio number associated with the #docs deployment and text "link" to get a link to whatever doc you're currently sharing (for deals, specials, marketing info, etc.)
+
+For the sample #docs deployment, call my Twilio number (415)599-2671, enter passcode "7392-3266", and message "link".</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="a">
+        <uri>http://www.programmableweb.com/mashup/mt-server-monitor</uri>
+      </binding>
+      <binding name="label">
+        <literal>(mt) Server Monitor</literal>
+      </binding>
+      <binding name="desc">
+        <literal>Manage, monitor, and control your (mt) Media Temple services on your Android device. More details at droiddevil.com</literal>
+      </binding>
+      <binding name="rating">
+        <literal>0.800106680890786</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="a">
+        <uri>http://www.programmableweb.com/mashup/109things</uri>
+      </binding>
+      <binding name="label">
+        <literal>109things</literal>
+      </binding>
+      <binding name="desc">
+        <literal>Uses an Ajax interface to speed up Amazon.com buying decisions. It has side-by-side product comparisons, automatic currency conversions, historical sales rank and price charts, and price and sales rank email alerts.</literal>
+      </binding>
+      <binding name="rating">
+        <literal>0.700093345779437</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="a">
+        <uri>http://www.programmableweb.com/mashup/100-most-powerful-celebrities</uri>
+      </binding>
+      <binding name="label">
+        <literal>100 Most Powerful Celebrities</literal>
+      </binding>
+      <binding name="desc">
+        <literal>Map of Forbes list of the top 100 most powerful and best paid celebrities. Pop-up windows for each includes related YouTube videos.</literal>
+      </binding>
+      <binding name="rating">
+        <literal>0.700093345779437</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="a">
+        <uri>http://www.programmableweb.com/mashup/haiku</uri>
+      </binding>
+      <binding name="label">
+        <literal>#haiku</literal>
+      </binding>
+      <binding name="desc">
+        <literal>Parses #haiku on Twitter and matches the lines with photos from Flickr.</literal>
+      </binding>
+      <binding name="rating">
+        <literal>0.860114681957594</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="a">
+        <uri>http://www.programmableweb.com/mashup/.br-domain-name-search</uri>
+      </binding>
+      <binding name="label">
+        <literal>.BR Domain Name Search</literal>
+      </binding>
+      <binding name="desc">
+        <literal>Check on the availability of Brazil (.BR) domain names right from your Google homepage with this Google Gadget.</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="a">
+        <uri>http://www.programmableweb.com/mashup/10-top-us-cities-travel-guides</uri>
+      </binding>
+      <binding name="label">
+        <literal>10 Top US Cities Travel Guides</literal>
+      </binding>
+      <binding name="desc">
+        <literal>Travel guides for 10 top U.S. cities: New York, Boston, Chicago, San Francisco, Orlando, Las Vegas, Atlanta, Dallas, Houston, and Seattle. Each subdomain includes select video guides pulled via the YouTube API.</literal>
+      </binding>
+      <binding name="rating">
+        <literal>0.54007200960128</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="a">
+        <uri>http://www.programmableweb.com/api/google-maps</uri>
+      </binding>
+      <binding name="label">
+        <literal>Google Maps API</literal>
+      </binding>
+      <binding name="desc">
+        <literal>The Google Maps API allow for the embedding of Google Maps onto web pages of outside developers, using a simple JavaScript interface or a Flash interface. It is designed to work on both mobile devices as well as traditional desktop browser applications. The API includes language localization for over 50 languages, region localization and geocoding, and has mechanisms for enterprise developers who want to utilize the Google Maps API within an intranet. The API HTTP services can be accessed over a secure (HTTPS) connection by Google Maps API Premier customers.</literal>
+      </binding>
+      <binding name="rating">
+        <literal>0.820109347913055</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="a">
+        <uri>http://www.programmableweb.com/mashup/10best</uri>
+      </binding>
+      <binding name="label">
+        <literal>10best</literal>
+      </binding>
+      <binding name="desc">
+        <literal>10Best provides its users with original, unbiased, and experiential travel content on top attractions, things to do, and restaurants for top destinations in the US and around the world.</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="a">
+        <uri>http://www.programmableweb.com/mashup/200-towns</uri>
+      </binding>
+      <binding name="label">
+        <literal>200 Towns</literal>
+      </binding>
+      <binding name="desc">
+        <literal>Perspecives of British landscape: images and text from cities and towns around Britain.</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="a">
+        <uri>http://www.programmableweb.com/mashup/2009-formula-one-map</uri>
+      </binding>
+      <binding name="label">
+        <literal>2009 Formula One Map</literal>
+      </binding>
+      <binding name="desc">
+        <literal>Displays satellite images of all 2009 Formula One Grand Prix Circuits with race results and grand prix information.</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="a">
+        <uri>http://www.programmableweb.com/mashup/25-best-companies-to-work-for</uri>
+      </binding>
+      <binding name="label">
+        <literal>25 Best Companies to Work For</literal>
+      </binding>
+      <binding name="desc">
+        <literal>Map of the 100 best US companies to work for as rated by Fortune Magazine</literal>
+      </binding>
+      <binding name="rating">
+        <literal>0.56007467662355</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="a">
+        <uri>http://www.programmableweb.com/mashup/2010-formula-one-map</uri>
+      </binding>
+      <binding name="label">
+        <literal>2010 Formula One Map</literal>
+      </binding>
+      <binding name="desc">
+        <literal>Displays satellite images of all 2010 Formula One Grand Prix Circuits with race results and grand prix information.</literal>
+      </binding>
+      <binding name="rating">
+        <literal>0.600080010668089</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="a">
+        <uri>http://www.programmableweb.com/mashup/2008-basketball-tourneys</uri>
+      </binding>
+      <binding name="label">
+        <literal>2008 Basketball Tourneys</literal>
+      </binding>
+      <binding name="desc">
+        <literal>Location, seedings, and dynamically updating brackets for all of the Division I college basketball conference tournaments.</literal>
+      </binding>
+      <binding name="rating">
+        <literal>0.820109347913055</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="a">
+        <uri>http://www.programmableweb.com/mashup/14-sundials-in-oxford-england</uri>
+      </binding>
+      <binding name="label">
+        <literal>14 Sundials in Oxford, England</literal>
+      </binding>
+      <binding name="desc">
+        <literal>A sundial trail around the city of Oxford, UK. Has simplified mobile version.</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="a">
+        <uri>http://www.programmableweb.com/mashup/25-unsafest-us-cities</uri>
+      </binding>
+      <binding name="label">
+        <literal>25 Unsafest US Cities</literal>
+      </binding>
+      <binding name="desc">
+        <literal>A look at the 25 most unsafe cities in America.</literal>
+      </binding>
+      <binding name="rating">
+        <literal>0.660088011734898</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="a">
+        <uri>http://www.programmableweb.com/mashup/140blood-twitter-adventure</uri>
+      </binding>
+      <binding name="label">
+        <literal>140Blood Twitter Adventure</literal>
+      </binding>
+      <binding name="desc">
+        <literal>140blood is a new Twitter-based multiplayer fantasy game.  Choose among 4 exciting adventures in an MMORPG adventure world.</literal>
+      </binding>
+      <binding name="rating">
+        <literal>0.660088011734898</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="a">
+        <uri>http://www.programmableweb.com/mashup/2011-march-madness-twitter-heatmap</uri>
+      </binding>
+      <binding name="label">
+        <literal>2011 March Madness Twitter Heatmap</literal>
+      </binding>
+      <binding name="desc">
+        <literal>This mashup visualizes Twitter data collected during the 2011 NCAA basketball tournament using the Twitter Streaming API. For each matchup in the bracket, the map lights up one team's colors based on the amount of tweets recieved at each location. Send a geotagged tweet to support your favorite team!</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="a">
+        <uri>http://www.programmableweb.com/mashup/2008-beijing-olympics-torch-relay-path</uri>
+      </binding>
+      <binding name="label">
+        <literal>2008 Beijing Olympics Torch Relay Path</literal>
+      </binding>
+      <binding name="desc">
+        <literal>See the path for the 2008 Beijing Olympics torch.</literal>
+      </binding>
+      <binding name="rating">
+        <literal>0.740098679823977</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="a">
+        <uri>http://www.programmableweb.com/mashup/250-wedding-tent-venues</uri>
+      </binding>
+      <binding name="label">
+        <literal>250 Wedding Tent Venues</literal>
+      </binding>
+      <binding name="desc">
+        <literal>Map of about 250 places to put up a wedding party tent in southeast UK. Combines mapping with real offline research to provide information that is available nowhere else.</literal>
+      </binding>
+      <binding name="rating">
+        <literal>0.940125350046673</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="a">
+        <uri>http://www.programmableweb.com/mashup/140call</uri>
+      </binding>
+      <binding name="label">
+        <literal>140call</literal>
+      </binding>
+      <binding name="desc">
+        <literal>140Call makes it easy to send reminder and wake-up calls to your mobile phone.  With a simple tweet to @140Call, you can set up a wake-up call that gives you the weather in your city, and whatever you need to remind yourself to do.</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="a">
+        <uri>http://www.programmableweb.com/mashup/2012twit</uri>
+      </binding>
+      <binding name="label">
+        <literal>2012twit</literal>
+      </binding>
+      <binding name="desc">
+        <literal>2012twit.com is a Twitter dashboard for the 2012 presidential election. The site uses the Twitter API to collect tweets by President Obama, 32 other potential GOP candidates and all other tweets that mention them.</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="a">
+        <uri>http://www.programmableweb.com/mashup/2008-formula-one-map</uri>
+      </binding>
+      <binding name="label">
+        <literal>2008 Formula One Map</literal>
+      </binding>
+      <binding name="desc">
+        <literal>Displays satellite images of all 2008 Formula One Grand Prix Circuits with race results and grand prix information.</literal>
+      </binding>
+      <binding name="rating">
+        <literal>0.700093345779437</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="a">
+        <uri>http://www.programmableweb.com/mashup/29-travels</uri>
+      </binding>
+      <binding name="label">
+        <literal>29 Travels</literal>
+      </binding>
+      <binding name="desc">
+        <literal>Used to highlight countries you have visited. Supports Google Maps and Google Earth with a browser plugin. Provides an embeddable HTML code so bloggers and website owners can embed it into their site. No need to register.</literal>
+      </binding>
+      <binding name="rating">
+        <literal>0.880117348979864</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="a">
+        <uri>http://www.programmableweb.com/mashup/24h-report</uri>
+      </binding>
+      <binding name="label">
+        <literal>24H Report</literal>
+      </binding>
+      <binding name="desc">
+        <literal>24H REPORT is a news aggregator, shows latest and breaking News of Startups, Business, Technology, Politics, Entertainment and more.</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="a">
+        <uri>http://www.programmableweb.com/mashup/1click2destiny</uri>
+      </binding>
+      <binding name="label">
+        <literal>1click2destiny</literal>
+      </binding>
+      <binding name="desc">
+        <literal>If it is 1 click 2 your destiny, will you face your fate? With 1click2destiny.com you get access to hundreds of top-rated links that were suggested and voted for by thousands of active online users. Uses the Digg API.</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="a">
+        <uri>http://www.programmableweb.com/mashup/2008-us-electoral-map</uri>
+      </binding>
+      <binding name="label">
+        <literal>2008 US Electoral Map</literal>
+      </binding>
+      <binding name="desc">
+        <literal>Mashup of US Electoral Map and Google Maps will allow you to interact with Google maps to calculate 2008 US Electoral votes. Mashup lets you load the map with previous election results and current polls.</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="a">
+        <uri>http://www.programmableweb.com/api/google-gmail-oauth</uri>
+      </binding>
+      <binding name="label">
+        <literal>Google Gmail OAuth API</literal>
+      </binding>
+      <binding name="desc">
+        <literal>Google Gmail now supports the standard IMAP and SMTP protocols for accessing and sending e-mail messages. The Gmail IMAP and SMTP servers have been extended to support authorization via the industry-standard OAuth protocol. This allows third party applications to access a user's email account with their permission.</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="a">
+        <uri>http://www.programmableweb.com/api/google-chart</uri>
+      </binding>
+      <binding name="label">
+        <literal>Google Chart API</literal>
+      </binding>
+      <binding name="desc">
+        <literal>The Google Chart API lets you dynamically generate charts with a URL string and embed these charts on a web page, or download the image for local or offline use. The Google Chart Tools enable adding live charts to any web page. They provide advantages such as a rich gallery of visualizations provided as image charts and interactive charts and they can read live data from a variety of data sources.Users embed the data and formatting parameters in an HTTP request, and Google returns a PNG image of the chart. Many types of chart are supported, and by making the request into an image tag the chart can be included in a web page.</literal>
+      </binding>
+      <binding name="rating">
+        <literal>0.840112014935325</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="a">
+        <uri>http://www.programmableweb.com/api/guardian</uri>
+      </binding>
+      <binding name="label">
+        <literal>Guardian API</literal>
+      </binding>
+      <binding name="desc">
+        <literal>The Guardian Open Platform is the suite of web services that make it possible for our partners to build applications with the Guardian. We've opened up our platform so that everyone can benefit from our journalism, our brand, and the technologies that power guardian.co.uk. The Open Platform currently includes two products, the Content API and the Data Store. is a mechanism for getting Guardian content. You can query our content database for articles and get them back in formats that are geared toward integration with other internet applications. The Data Store is a collection of important and high quality data sets curated by Guardian journalists. You can find useful data here, download it, and integrate it with other internet applications.</literal>
+      </binding>
+      <binding name="rating">
+        <literal>0.700093345779437</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="a">
+        <uri>http://www.programmableweb.com/api/bitrix24</uri>
+      </binding>
+      <binding name="label">
+        <literal>Bitrix24 API</literal>
+      </binding>
+      <binding name="desc">
+        <literal>Bitrix24 is collaborative workspace for companies. It hosts features that support businesses’ CRM, planning, and project management needs. The workspace includes a public frontpage feed for company-wide dialogue, as well as conversation modules for smaller group meetings. Other modules allow users to keep track of client data, project progress, and building reports. The Bitrix API allows developers to upload client information by exposing the CRM functionality. It is a RESTful API that returns JSON-formatted data.</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="a">
+        <uri>http://www.programmableweb.com/api/cambridge-university-library</uri>
+      </binding>
+      <binding name="label">
+        <literal>Cambridge University Library  API</literal>
+      </binding>
+      <binding name="desc">
+        <literal>Cambridge University Library is a system of libraries that supports teaching and research at the University of Cambridge. The Library provides a suite of APIs to access and interact with the library catalog and other online services. These APIs include catalogue data, ejournal holdings information, DSpace institutional repository, circulation services, and more.The APIs are RESTful and return responses in XML and JSON formats.</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="a">
+        <uri>http://www.programmableweb.com/api/autodesk-freewheel</uri>
+      </binding>
+      <binding name="label">
+        <literal>Autodesk Freewheel API</literal>
+      </binding>
+      <binding name="desc">
+        <literal>From their site: Autodesk Freewheel is an Ajax (Asynchronous JavaScript and XML) based web service/application built to provide CAD model viewing, printing and collaboration, through the dynamic rendering of DWF file data and graphics information. You can think of Freewheel as a set of componentized Web Services and JavaScript frameworks. Together these components make up the Interactive Ajax DWF Viewer.</literal>
+      </binding>
+    </result>
+  </results>
+</sparql>

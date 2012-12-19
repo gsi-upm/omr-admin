@@ -1,0 +1,353 @@
+<?xml version="1.0" encoding="utf-8"?>
+<sparql xmlns="http://www.w3.org/2005/sparql-results#">
+  <head>
+    <variable name="p" />
+    <variable name="o" />
+  </head>
+  <results>
+    <result>
+      <binding name="p">
+        <uri>http://www.w3.org/1999/02/22-rdf-syntax-ns#type</uri>
+      </binding>
+      <binding name="o">
+        <uri>http://www.ict-omelette.eu/schema.rdf#Service</uri>
+      </binding>
+    </result>
+    <result>
+      <binding name="p">
+        <uri>http://purl.org/dc/elements/1.1/description</uri>
+      </binding>
+      <binding name="o">
+        <literal>Check on the availability of Brazil (.BR) domain names right from your Google homepage with this Google Gadget.</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="p">
+        <uri>http://www.w3.org/2000/01/rdf-schema#label</uri>
+      </binding>
+      <binding name="o">
+        <literal>.BR Domain Name Search</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="p">
+        <uri>http://www.ict-omelette.eu/schema.rdf#hasRegistryEntry</uri>
+      </binding>
+      <binding name="o">
+        <uri>https://vsr-web.informatik.tu-chemnitz.de/omr/components/feedItem?name=https://vsr-web.informatik.tu-chemnitz.de/omr/components/graphs/91ba00d2-d298-4f9c-98e5-16e1acdd46c5</uri>
+      </binding>
+    </result>
+    <result>
+      <binding name="p">
+        <uri>http://www.ict-omelette.eu/schema.rdf#hasRegistryEntry</uri>
+      </binding>
+      <binding name="o">
+        <uri>https://vsr-web.informatik.tu-chemnitz.de/omr/components/feedItem?name=https://vsr-web.informatik.tu-chemnitz.de/omr/components/graphs/413bf547-a07c-48b8-8a39-bd5f42e62f9b</uri>
+      </binding>
+    </result>
+    <result>
+      <binding name="p">
+        <uri>http://www.ict-omelette.eu/schema.rdf#hasRegistryEntry</uri>
+      </binding>
+      <binding name="o">
+        <uri>https://vsr-web.informatik.tu-chemnitz.de/omr/components/feedItem?name=https://vsr-web.informatik.tu-chemnitz.de/omr/components/graphs/b33e1c49-85e5-46de-8fb7-426cefaeb82d</uri>
+      </binding>
+    </result>
+    <result>
+      <binding name="p">
+        <uri>http://www.ict-omelette.eu/schema.rdf#hasRegistryEntry</uri>
+      </binding>
+      <binding name="o">
+        <uri>https://vsr-web.informatik.tu-chemnitz.de/omr/components/feedItem?name=https://vsr-web.informatik.tu-chemnitz.de/omr/components/graphs/5b4493d5-fdd6-4510-b2ce-956fdcbdd592</uri>
+      </binding>
+    </result>
+    <result>
+      <binding name="p">
+        <uri>http://www.ict-omelette.eu/schema.rdf#hasRegistryEntry</uri>
+      </binding>
+      <binding name="o">
+        <uri>https://vsr-web.informatik.tu-chemnitz.de/omr/components/feedItem?name=https://vsr-web.informatik.tu-chemnitz.de/omr/components/graphs/aba81e88-5f15-4964-bbe9-c274b83ebe36</uri>
+      </binding>
+    </result>
+    <result>
+      <binding name="p">
+        <uri>http://www.ict-omelette.eu/schema.rdf#hasRegistryEntry</uri>
+      </binding>
+      <binding name="o">
+        <uri>https://vsr-web.informatik.tu-chemnitz.de/omr/components/feedItem?name=https://vsr-web.informatik.tu-chemnitz.de/omr/components/graphs/64445de0-ea63-483c-a68f-6b39cbc082f0</uri>
+      </binding>
+    </result>
+    <result>
+      <binding name="p">
+        <uri>http://www.ict-omelette.eu/schema.rdf#hasRegistryEntry</uri>
+      </binding>
+      <binding name="o">
+        <uri>https://vsr-web.informatik.tu-chemnitz.de/omr/components/feedItem?name=https://vsr-web.informatik.tu-chemnitz.de/omr/components/graphs/5db63de0-c36e-43fe-b17b-f795b46139b5</uri>
+      </binding>
+    </result>
+    <result>
+      <binding name="p">
+        <uri>http://www.ict-omelette.eu/schema.rdf#hasRegistryEntry</uri>
+      </binding>
+      <binding name="o">
+        <uri>https://vsr-web.informatik.tu-chemnitz.de/omr/components/feedItem?name=https://vsr-web.informatik.tu-chemnitz.de/omr/components/graphs/64fbcf14-4b20-4262-94c6-8e2573485457</uri>
+      </binding>
+    </result>
+    <result>
+      <binding name="p">
+        <uri>http://www.ict-omelette.eu/schema.rdf#hasRegistryEntry</uri>
+      </binding>
+      <binding name="o">
+        <uri>https://vsr-web.informatik.tu-chemnitz.de/omr/components/feedItem?name=https://vsr-web.informatik.tu-chemnitz.de/omr/components/graphs/43478ee4-4f8a-40e6-a93d-8d16bffb2ad8</uri>
+      </binding>
+    </result>
+    <result>
+      <binding name="p">
+        <uri>http://www.ict-omelette.eu/schema.rdf#hasRegistryEntry</uri>
+      </binding>
+      <binding name="o">
+        <uri>https://vsr-web.informatik.tu-chemnitz.de/omr/components/feedItem?name=https://vsr-web.informatik.tu-chemnitz.de/omr/components/graphs/c48e55f4-f189-4561-8860-cbdc1e5d6621</uri>
+      </binding>
+    </result>
+    <result>
+      <binding name="p">
+        <uri>http://www.ict-omelette.eu/schema.rdf#hasRegistryEntry</uri>
+      </binding>
+      <binding name="o">
+        <uri>https://vsr-web.informatik.tu-chemnitz.de/omr/components/feedItem?name=https://vsr-web.informatik.tu-chemnitz.de/omr/components/graphs/253c5ce8-e5ee-4d60-8e88-825b5ec364b5</uri>
+      </binding>
+    </result>
+    <result>
+      <binding name="p">
+        <uri>http://www.ict-omelette.eu/schema.rdf#hasRegistryEntry</uri>
+      </binding>
+      <binding name="o">
+        <uri>https://vsr-web.informatik.tu-chemnitz.de/omr/components/feedItem?name=https://vsr-web.informatik.tu-chemnitz.de/omr/components/graphs/5e729c3c-8cd1-44ff-a5e7-5611ca8f3a7d</uri>
+      </binding>
+    </result>
+    <result>
+      <binding name="p">
+        <uri>http://www.ict-omelette.eu/schema.rdf#hasRegistryEntry</uri>
+      </binding>
+      <binding name="o">
+        <uri>https://vsr-web.informatik.tu-chemnitz.de/omr/components/feedItem?name=https://vsr-web.informatik.tu-chemnitz.de/omr/components/graphs/28cf7abf-a02e-4b9c-a5ff-4af770c242bf</uri>
+      </binding>
+    </result>
+    <result>
+      <binding name="p">
+        <uri>http://www.ict-omelette.eu/schema.rdf#hasRegistryEntry</uri>
+      </binding>
+      <binding name="o">
+        <uri>https://vsr-web.informatik.tu-chemnitz.de/omr/components/feedItem?name=https://vsr-web.informatik.tu-chemnitz.de/omr/components/graphs/ba7e3673-e942-4a6b-aca8-be6a35a9f7bc</uri>
+      </binding>
+    </result>
+    <result>
+      <binding name="p">
+        <uri>http://www.ict-omelette.eu/schema.rdf#hasRegistryEntry</uri>
+      </binding>
+      <binding name="o">
+        <uri>https://vsr-web.informatik.tu-chemnitz.de/omr/components/feedItem?name=https://vsr-web.informatik.tu-chemnitz.de/omr/components/graphs/5244b4d1-16c1-40c8-98c4-9148b0e14286</uri>
+      </binding>
+    </result>
+    <result>
+      <binding name="p">
+        <uri>http://www.ict-omelette.eu/schema.rdf#hasRegistryEntry</uri>
+      </binding>
+      <binding name="o">
+        <uri>https://vsr-web.informatik.tu-chemnitz.de/omr/components/feedItem?name=https://vsr-web.informatik.tu-chemnitz.de/omr/components/graphs/c72e7cb9-9c80-47ac-8e9b-c0c3b6bd3f59</uri>
+      </binding>
+    </result>
+    <result>
+      <binding name="p">
+        <uri>http://www.ict-omelette.eu/schema.rdf#hasRegistryEntry</uri>
+      </binding>
+      <binding name="o">
+        <uri>https://vsr-web.informatik.tu-chemnitz.de/omr/components/feedItem?name=https://vsr-web.informatik.tu-chemnitz.de/omr/components/graphs/5c5463fe-68e9-4436-a8ff-0dc18a7a66fe</uri>
+      </binding>
+    </result>
+    <result>
+      <binding name="p">
+        <uri>http://purl.org/dc/terms/isPartOf</uri>
+      </binding>
+      <binding name="o">
+        <uri>https://vsr-web.informatik.tu-chemnitz.de/omr/components/graphs/?name=https://vsr-web.informatik.tu-chemnitz.de/omr/components/graphs/91ba00d2-d298-4f9c-98e5-16e1acdd46c5</uri>
+      </binding>
+    </result>
+    <result>
+      <binding name="p">
+        <uri>http://purl.org/dc/terms/isPartOf</uri>
+      </binding>
+      <binding name="o">
+        <uri>https://vsr-web.informatik.tu-chemnitz.de/omr/components/graphs/?name=https://vsr-web.informatik.tu-chemnitz.de/omr/components/graphs/413bf547-a07c-48b8-8a39-bd5f42e62f9b</uri>
+      </binding>
+    </result>
+    <result>
+      <binding name="p">
+        <uri>http://purl.org/dc/terms/isPartOf</uri>
+      </binding>
+      <binding name="o">
+        <uri>https://vsr-web.informatik.tu-chemnitz.de/omr/components/graphs/?name=https://vsr-web.informatik.tu-chemnitz.de/omr/components/graphs/b33e1c49-85e5-46de-8fb7-426cefaeb82d</uri>
+      </binding>
+    </result>
+    <result>
+      <binding name="p">
+        <uri>http://purl.org/dc/terms/isPartOf</uri>
+      </binding>
+      <binding name="o">
+        <uri>https://vsr-web.informatik.tu-chemnitz.de/omr/components/graphs/?name=https://vsr-web.informatik.tu-chemnitz.de/omr/components/graphs/5b4493d5-fdd6-4510-b2ce-956fdcbdd592</uri>
+      </binding>
+    </result>
+    <result>
+      <binding name="p">
+        <uri>http://purl.org/dc/terms/isPartOf</uri>
+      </binding>
+      <binding name="o">
+        <uri>https://vsr-web.informatik.tu-chemnitz.de/omr/components/graphs/?name=https://vsr-web.informatik.tu-chemnitz.de/omr/components/graphs/aba81e88-5f15-4964-bbe9-c274b83ebe36</uri>
+      </binding>
+    </result>
+    <result>
+      <binding name="p">
+        <uri>http://purl.org/dc/terms/isPartOf</uri>
+      </binding>
+      <binding name="o">
+        <uri>https://vsr-web.informatik.tu-chemnitz.de/omr/components/graphs/?name=https://vsr-web.informatik.tu-chemnitz.de/omr/components/graphs/64445de0-ea63-483c-a68f-6b39cbc082f0</uri>
+      </binding>
+    </result>
+    <result>
+      <binding name="p">
+        <uri>http://purl.org/dc/terms/isPartOf</uri>
+      </binding>
+      <binding name="o">
+        <uri>https://vsr-web.informatik.tu-chemnitz.de/omr/components/graphs/?name=https://vsr-web.informatik.tu-chemnitz.de/omr/components/graphs/5db63de0-c36e-43fe-b17b-f795b46139b5</uri>
+      </binding>
+    </result>
+    <result>
+      <binding name="p">
+        <uri>http://purl.org/dc/terms/isPartOf</uri>
+      </binding>
+      <binding name="o">
+        <uri>https://vsr-web.informatik.tu-chemnitz.de/omr/components/graphs/?name=https://vsr-web.informatik.tu-chemnitz.de/omr/components/graphs/64fbcf14-4b20-4262-94c6-8e2573485457</uri>
+      </binding>
+    </result>
+    <result>
+      <binding name="p">
+        <uri>http://purl.org/dc/terms/isPartOf</uri>
+      </binding>
+      <binding name="o">
+        <uri>https://vsr-web.informatik.tu-chemnitz.de/omr/components/graphs/?name=https://vsr-web.informatik.tu-chemnitz.de/omr/components/graphs/43478ee4-4f8a-40e6-a93d-8d16bffb2ad8</uri>
+      </binding>
+    </result>
+    <result>
+      <binding name="p">
+        <uri>http://purl.org/dc/terms/isPartOf</uri>
+      </binding>
+      <binding name="o">
+        <uri>https://vsr-web.informatik.tu-chemnitz.de/omr/components/graphs/?name=https://vsr-web.informatik.tu-chemnitz.de/omr/components/graphs/c48e55f4-f189-4561-8860-cbdc1e5d6621</uri>
+      </binding>
+    </result>
+    <result>
+      <binding name="p">
+        <uri>http://purl.org/dc/terms/isPartOf</uri>
+      </binding>
+      <binding name="o">
+        <uri>https://vsr-web.informatik.tu-chemnitz.de/omr/components/graphs/?name=https://vsr-web.informatik.tu-chemnitz.de/omr/components/graphs/253c5ce8-e5ee-4d60-8e88-825b5ec364b5</uri>
+      </binding>
+    </result>
+    <result>
+      <binding name="p">
+        <uri>http://purl.org/dc/terms/isPartOf</uri>
+      </binding>
+      <binding name="o">
+        <uri>https://vsr-web.informatik.tu-chemnitz.de/omr/components/graphs/?name=https://vsr-web.informatik.tu-chemnitz.de/omr/components/graphs/5e729c3c-8cd1-44ff-a5e7-5611ca8f3a7d</uri>
+      </binding>
+    </result>
+    <result>
+      <binding name="p">
+        <uri>http://purl.org/dc/terms/isPartOf</uri>
+      </binding>
+      <binding name="o">
+        <uri>https://vsr-web.informatik.tu-chemnitz.de/omr/components/graphs/?name=https://vsr-web.informatik.tu-chemnitz.de/omr/components/graphs/28cf7abf-a02e-4b9c-a5ff-4af770c242bf</uri>
+      </binding>
+    </result>
+    <result>
+      <binding name="p">
+        <uri>http://purl.org/dc/terms/isPartOf</uri>
+      </binding>
+      <binding name="o">
+        <uri>https://vsr-web.informatik.tu-chemnitz.de/omr/components/graphs/?name=https://vsr-web.informatik.tu-chemnitz.de/omr/components/graphs/ba7e3673-e942-4a6b-aca8-be6a35a9f7bc</uri>
+      </binding>
+    </result>
+    <result>
+      <binding name="p">
+        <uri>http://purl.org/dc/terms/isPartOf</uri>
+      </binding>
+      <binding name="o">
+        <uri>https://vsr-web.informatik.tu-chemnitz.de/omr/components/graphs/?name=https://vsr-web.informatik.tu-chemnitz.de/omr/components/graphs/5244b4d1-16c1-40c8-98c4-9148b0e14286</uri>
+      </binding>
+    </result>
+    <result>
+      <binding name="p">
+        <uri>http://purl.org/dc/terms/isPartOf</uri>
+      </binding>
+      <binding name="o">
+        <uri>https://vsr-web.informatik.tu-chemnitz.de/omr/components/graphs/?name=https://vsr-web.informatik.tu-chemnitz.de/omr/components/graphs/c72e7cb9-9c80-47ac-8e9b-c0c3b6bd3f59</uri>
+      </binding>
+    </result>
+    <result>
+      <binding name="p">
+        <uri>http://purl.org/dc/terms/isPartOf</uri>
+      </binding>
+      <binding name="o">
+        <uri>https://vsr-web.informatik.tu-chemnitz.de/omr/components/graphs/?name=https://vsr-web.informatik.tu-chemnitz.de/omr/components/graphs/5c5463fe-68e9-4436-a8ff-0dc18a7a66fe</uri>
+      </binding>
+    </result>
+    <result>
+      <binding name="p">
+        <uri>http://purl.org/dc/elements/1.1/source</uri>
+      </binding>
+      <binding name="o">
+        <uri>http://www.programmableweb.com/mashup/.br-domain-name-search</uri>
+      </binding>
+    </result>
+    <result>
+      <binding name="p">
+        <uri>http://www.ict-omelette.eu/schema.rdf#endpoint</uri>
+      </binding>
+      <binding name="o">
+        <uri>http://www.google.com/ig/directory?url=hosting.gmodules.com/ig/gadgets/file/117697753513995606918/pesquisa-dominio.xml</uri>
+      </binding>
+    </result>
+    <result>
+      <binding name="p">
+        <uri>http://commontag.org/ns#tagged</uri>
+      </binding>
+      <binding name="o">
+        <uri>http://www.ict-omelette.eu/omr/tags/search</uri>
+      </binding>
+    </result>
+    <result>
+      <binding name="p">
+        <uri>http://commontag.org/ns#tagged</uri>
+      </binding>
+      <binding name="o">
+        <uri>http://www.ict-omelette.eu/omr/tags/domains</uri>
+      </binding>
+    </result>
+    <result>
+      <binding name="p">
+        <uri>http://commontag.org/ns#tagged</uri>
+      </binding>
+      <binding name="o">
+        <uri>http://www.ict-omelette.eu/omr/tags/widgets</uri>
+      </binding>
+    </result>
+    <result>
+      <binding name="p">
+        <uri>http://www.ict-omelette.eu/schema.rdf#uses</uri>
+      </binding>
+      <binding name="o">
+        <uri>http://www.programmableweb.com/api/google-homepage</uri>
+      </binding>
+    </result>
+  </results>
+</sparql>

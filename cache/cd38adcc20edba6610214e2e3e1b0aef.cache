@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="utf-8"?>
+<sparql xmlns="http://www.w3.org/2005/sparql-results#">
+  <head>
+    <variable name="o" />
+    <variable name="total" />
+  </head>
+  <results>
+    <result>
+      <binding name="o">
+        <uri>http://www.ict-omelette.eu/schema.rdf#Service</uri>
+      </binding>
+      <binding name="total">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">6123</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="o">
+        <uri>http://lab.gsi.dit.upm.es/scraping.rdf#NewUri</uri>
+      </binding>
+      <binding name="total">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">624</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="o">
+        <uri>http://commontag.org/ns#Tag</uri>
+      </binding>
+      <binding name="total">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">570</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="o">
+        <uri>http://www.ict-omelette.eu/schema.rdf#W3CWidget</uri>
+      </binding>
+      <binding name="total">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">135</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="o">
+        <uri>http://www.w3.org/2004/02/skos/core#Concept</uri>
+      </binding>
+      <binding name="total">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">62</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="o">
+        <uri>http://www.ict-omelette.eu/schema.rdf#Widget</uri>
+      </binding>
+      <binding name="total">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">11</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="o">
+        <uri>http://lab.gsi.dit.upm.es/scraping.rdf#Page</uri>
+      </binding>
+      <binding name="total">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">7</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="o">
+        <uri>http://lab.gsi.dit.upm.es/scraping.rdf#Index</uri>
+      </binding>
+      <binding name="total">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">2</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="o">
+        <uri>http://www.ict-omelette.eu/schema.rdf#Mashup</uri>
+      </binding>
+      <binding name="total">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="o">
+        <uri>http://www.ict-omelette.eu/schema.rdf#WSDLDescriptionDocument</uri>
+      </binding>
+      <binding name="total">
+        <literal datatype="http://www.w3.org/2001/XMLSchema#integer">1</literal>
+      </binding>
+    </result>
+  </results>
+</sparql>
