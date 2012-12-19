@@ -5,8 +5,8 @@ class Omr{
 
 	var $sparql_url = "https://vsr-web.informatik.tu-chemnitz.de/omr-write/components/sparql";
 	var $post_url;
-	var $user = "omr-client-upm";
-	var $password = "omr.client.upm.2012";
+	var $user = "user";
+	var $password = "password";
 	var $endpoint;
 	var $server;
 	
