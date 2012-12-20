@@ -1,0 +1,11 @@
+#INDICATE THE SCRAPPY WEB SERVER DIRECTION
+scrappySever=http://localhost:3434
+
+#INDICATE SESAME OR OMR
+server=omr
+
+#INFORMATION REQUIRED OF SESAME
+# Sesame´s database
+sesameDataBase=http://shannon.gsi.dit.upm.es:18080/openrdf-sesame
+
+# Sesame
